@@ -1,0 +1,346 @@
+/* ---------------------------------------- 自定义图标 ---------------------------------------- */
+.icon-arrow_1{
+	background:url('icons/arrow-1.png') no-repeat center center;
+}
+.icon-volume{
+	background:url('icons/volume.png') no-repeat center center;
+}
+.icon-volume_loud{
+	background:url('icons/volume_loud.png') no-repeat center center;
+}
+.icon-view_icons{
+	background:url('icons/view_icons.png') no-repeat center center;
+}
+.icon-doc_convert{
+	background:url('icons/doc_convert.png') no-repeat center center;
+}
+.icon-joystick{
+	background:url('icons/joystick.png') no-repeat center center;
+}
+.icon-text_signature{
+	background:url('icons/text_signature.png') no-repeat center center;
+}
+.icon-paintbrush{
+	background:url('icons/paintbrush.png') no-repeat center center;
+}
+.icon-report{
+	background:url('icons/report.png') no-repeat center center;
+}
+.icon-house{
+	background:url('icons/house.png') no-repeat center center;
+}
+.icon-remove2{
+	background:url('icons/remove2.png') no-repeat center center;
+}
+.icon-pencil{
+	background:url('icons/pencil.png') no-repeat center center;
+}
+.icon-cross{
+	background:url('icons/cross.png') no-repeat center center;
+}
+.icon-cut2{
+	background:url('icons/cut2.png') no-repeat center center;
+}
+/* delete2图标 */
+.icon-delete2{
+	background:url('icons/delete2.png') no-repeat center center;
+}
+/* approve图标 */
+.icon-tick{
+	background:url('icons/tick.png') no-repeat center center;
+}
+.icon-menu_tree{
+	background:url('icons/menu_tree.png') no-repeat center center;
+}
+.icon-drive-upload{
+	background:url('icons/drive-upload.png') no-repeat center center;
+}
+.icon-drive-download{
+	background:url('icons/drive-download.png') no-repeat center center;
+}
+.icon-app_tree{
+	background:url('icons/app_tree.png') no-repeat center center;
+}
+.icon-arrow_in{
+	background:url('icons/arrow-in.png') no-repeat center center;
+}
+.icon-arrow_out{
+	background:url('icons/arrow-out.png') no-repeat center center;
+}
+
+
+/* approve图标 */
+.icon-approve{
+	background:url('icons/approve.png') no-repeat center center;
+}
+/* checkmark图标 */
+.icon-checkmark{
+	background:url('icons/checkmark.png') no-repeat center center;
+}
+/* goods图标 */
+.icon-goods{
+	background:url('icons/goods.png') no-repeat center center;
+}
+/* storehouse图标 */
+.icon-storehouse{
+	background:url('icons/storehouse.png') no-repeat center center;
+}
+/* money图标 */
+.icon-money{
+	background:url('icons/money.png') no-repeat center center;
+}
+/* delete_box图标 */
+.icon-delete_box{
+	background:url('icons/delete_box.png') no-repeat center center;
+}
+/* 关闭图标 */
+.icon-close2{
+	background:url('icons/close2.png') no-repeat center center;
+}
+/* erase图标 */
+.icon-erase{
+	background:url('icons/erase.png') no-repeat center center;
+}
+/* delete图标 */
+.icon-delete{
+	background:url('icons/erase.png') no-repeat center center;
+}
+/* 退出图标 */
+.icon-logout{
+	background:url('icons/logout.png') no-repeat center center;
+}
+
+/* 登录图标 */
+.icon-login{
+	background:url('icons/login.png') no-repeat center center;
+}
+
+/* home图标 */
+.icon-home{
+	background:url('icons/home.png') no-repeat center center;
+}
+
+/* 供应商图标 */
+.icon-supplier{
+	background:url('icons/supplier.gif') no-repeat center center;
+}
+
+/* new图标 */
+.icon-new{
+	background:url('icons/new.png') no-repeat center center;
+}
+
+/* 菜单图标 */
+.icon-sitemap{
+	background:url('icons/sitemap_color.png') no-repeat center center;
+}
+/* 菜单图标 */
+.icon-sitemap_red{
+	background:url('icons/sitemap_red.png') no-repeat center center;
+}
+
+/* OA */
+.icon-briefcase{
+	background:url('icons/briefcase.png') no-repeat center center;
+}
+/* 系统管理 */
+.icon-system{
+	background:url('icons/hammer_screwdriver.png') no-repeat center center;
+}
+/* 关机按钮*/
+.icon-close{
+	background:url('icons/close.png') no-repeat center center;
+}
+/* 关闭所有窗口 */
+.icon-no2{
+	background:url('icons/no2.gif') no-repeat center center;
+}
+
+/* 关闭所有窗口 */
+.icon-no3{
+	background:url('icons/no3.gif') no-repeat center center;
+}
+
+/* 个人信息 */
+.icon-users{
+	background:url('icons/users.png') no-repeat center center;
+}
+/* 密码信息 */
+.icon-key{
+	background:url('icons/key.png') no-repeat center center;
+}
+/* 通用列表图标  */
+.icon-list{
+	background:url('icons/list.png') no-repeat center center;
+}
+/* 明细图标 */
+.icon-detail{
+	background:url('icons/detail.png') no-repeat center center;
+}
+/* 数据字段图标 */
+.icon-columns{
+	background:url('icons/columns.png') no-repeat center center;
+}
+/* 属性图标 */
+.icon-properties{
+	background:url('icons/properties.png') no-repeat center center;
+}
+/* 错误图标 */
+.icon-wrong{
+	background:url('icons/wrong.gif') no-repeat center center;
+}
+/* 错误图标 */
+.icon-wrong2{
+	background:url('icons/wrong2.png') no-repeat center center;
+}
+
+/* 错误图标 */
+.icon-error{
+	background:url('icons/error.gif') no-repeat center center;
+}
+/* 转换图标 */
+.icon-convert{
+	background:url('icons/convert.png') no-repeat center center;
+}
+/* 关联图标 */
+.icon-relation{
+	background:url('icons/relation.png') no-repeat center center;
+}
+/* 加号图标 */
+.icon-plus{
+	background:url('icons/plus.png') no-repeat center center;
+}
+/* 减号图标 */
+.icon-minus{
+	background:url('icons/minus.png') no-repeat center center;
+}
+/* 铅笔图标 */
+.icon-pencil1{
+	background:url('icons/pencil1.png') no-repeat center center;
+}
+/* 数据库刷新图标 */
+.icon-db_refresh{
+	background:url('icons/database_refresh.png') no-repeat center center;
+}
+/* 图标 */
+.icon-wrench{
+	background:url('icons/wrench.png') no-repeat center center;
+}
+/* 图标 */
+.icon-wrench_orange{
+	background:url('icons/wrench_orange.png') no-repeat center center;
+}
+/* 旋转箭头图标 */
+.icon-arrow_circle_1{
+	background:url('icons/arrow_circle_1.png') no-repeat center center;
+}
+
+/* 加锁图标 */
+.icon-hmenu_lock{
+	background:url('icons/hmenu-lock.png') no-repeat center center;
+}
+/* 解锁图标 */
+.icon-hmenu_unlock{
+	background:url('icons/hmenu-unlock.png') no-repeat center center;
+}
+/* 人图标 */
+.icon-user_online{
+	background:url('icons/user_online.png') no-repeat center center;
+}
+
+
+/* ---------------------------------------- UI自带图标 ---------------------------------------- */
+
+.icon-blank{
+	background:url('icons/blank.gif') no-repeat center center;
+}
+.icon-add{
+	background:url('icons/edit_add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('icons/edit.png') no-repeat center center;
+}
+.icon-clear{
+	background:url('icons/clear.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('icons/edit_remove.png') no-repeat center center;
+}
+.icon-save{
+	background:url('icons/filesave.png') no-repeat center center;
+}
+.icon-cut{
+	background:url('icons/cut.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('icons/ok.png') no-repeat center center;
+}
+.icon-no{
+	background:url('icons/no.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('icons/cancel.png') no-repeat center center;
+}
+.icon-reload{
+	background:url('icons/reload.png') no-repeat center center;
+}
+.icon-search{
+	background:url('icons/search.png') no-repeat center center;
+}
+.icon-print{
+	background:url('icons/print.png') no-repeat center center;
+}
+.icon-help{
+	background:url('icons/help.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('icons/undo.png') no-repeat center center;
+}
+.icon-redo{
+	background:url('icons/redo.png') no-repeat center center;
+}
+.icon-back{
+	background:url('icons/back.png') no-repeat center center;
+}
+.icon-sum{
+	background:url('icons/sum.png') no-repeat center center;
+}
+.icon-tip{
+	background:url('icons/tip.png') no-repeat center center;
+}
+.icon-filter{
+	background:url('icons/filter.png') no-repeat center center;
+}
+.icon-man{
+	background:url('icons/man.png') no-repeat center center;
+}
+.icon-lock{
+	background:url('icons/lock.png') no-repeat center center;
+}
+
+
+.icon-mini-add{
+	background:url('icons/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit{
+	background:url('icons/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh{
+	background:url('icons/mini_refresh.png') no-repeat center center;
+}
+
+.icon-large-picture{
+	background:url('icons/large_picture.png') no-repeat center center;
+}
+.icon-large-clipart{
+	background:url('icons/large_clipart.png') no-repeat center center;
+}
+.icon-large-shapes{
+	background:url('icons/large_shapes.png') no-repeat center center;
+}
+.icon-large-smartart{
+	background:url('icons/large_smartart.png') no-repeat center center;
+}
+.icon-large-chart{
+	background:url('icons/large_chart.png') no-repeat center center;
+}

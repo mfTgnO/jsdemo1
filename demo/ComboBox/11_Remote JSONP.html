@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/default/easyui.css">
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/icon.css">
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/demo/demo.css">
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="http://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
+		<script type="text/javascript" src="http://www.jeasyui.com/easyui/datagrid-bufferview.js"></script>
+	</head>
+
+	<body>
+		<h2>Remote JSONP</h2>
+		<p>This sample shows how to use JSONP to retrieve data from a remote site.</p>
+		<div style="margin: 20px 0;"></div>
+		<div class="easyui-panel" style="width: 100%;max-width: 400px;padding: 30px 60px;">
+			<div style="margin-bottom: 20px;">
+				<input class="easyui-combobox" style="width: 100%;" data-options="
+        			loader:myloader,
+        			mode:'remote',
+        			valueField:'id',
+        			textField:'name',
+        			label:'State:',
+        			labelPosition:'top'
+        			" />
+			</div>
+		</div>
+		<script>
+			var myloader = function(param, success, error) {
+				var q = param.q || '';
+				if(q.length <= 2) {
+					return false;
+				}
+				$.ajax({
+					type: "get",
+					url: "http://gd.geobytes.com/AutoCompleteCity",
+					async: true,
+					dataType: 'jsonp',
+					data: {
+						q: q
+					},
+					success: function(data) {
+						var items = $.map(data, function(item, index) {
+							return {
+								id: index,
+								name: item
+							};
+						});
+					},
+					error: function() {
+						error.apply(this.arguments);
+					}
+				});
+			}
+		</script>
+	</body>
+
+</html>

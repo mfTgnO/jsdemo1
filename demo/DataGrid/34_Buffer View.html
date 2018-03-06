@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="keywords" content="jquery,ui,easy,easyui,web">
+        <meta name="description" content="easyui help you build your web page easily!">
+        <title>DataGrid Buffer Scrolling - jQuery EasyUI Demo</title>
+        <link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/default/easyui.css">
+        <link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/icon.css">
+        <link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/demo/demo.css">
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript" src="http://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
+        <script type="text/javascript" src="http://www.jeasyui.com/easyui/datagrid-bufferview.js"></script>
+	</head>
+	<body>
+		<h2>DataGrid Buffer View Demo</h2>
+        <div class="demo-info" style="margin-bottom:10px">
+            <div class="demo-tip icon-tip">&nbsp;</div>
+            <div>Drag the vertical scroll to the bottom to load additional records on demand.</div>
+        </div>
+        
+        <div style="margin-bottom: 10px;">
+        	<select onchange="load(this.value)">
+        		<option value="remote">Load Remote Data</option>
+        		<option value="local">Load Local Data</option>  
+        	</select>
+        </div>
+        <table id="tt" title="DataGrid - BufferView" style="width: 700px;height: 300px;" data-options="
+        		view:bufferview,
+        		rownumbers:true,
+        		singleSelect:true,
+        		url:'datagrid27_getdata.php?total=800',
+        		autoRowHeight:false,
+        		pageSize:50
+        	">
+        		<thead>
+        			<tr>
+        			<th field="inv" width="80">Inv No</th>
+                    <th field="date" width="100">Date</th>
+                    <th field="name" width="80">Name</th>
+                    <th field="amount" width="80" align="right">Amount</th>
+                    <th field="price" width="80" align="right">Price</th>
+                    <th field="cost" width="100" align="right">Cost</th>
+                    <th field="note" width="110">Note</th>
+        			</tr>
+        		</thead>	
+        </table>
+        <script type="text/javascript">
+        	$(function(){
+        		$('#tt').datagrid();
+        	});
+        	
+        </script>
+	</body>
+	
+</html>

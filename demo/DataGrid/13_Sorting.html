@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Add sorting to DataGrid - jQuery EasyUI Demo</title>
+		<link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/themes/default/easyui.css">
+		<link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/themes/icon.css">
+		<link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/themes/color.css">
+		<link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/demo/demo.css">
+		<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="https://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
+	</head>
+
+	<body>
+		<h2>Add sorting to DataGrid</h2>
+		<div class="demo-info" style="margin-bottom: 10px;">
+			<div class="demo-info">&nbsp;</div>
+			<div>Click on column header to sort but the 'Attribute' and 'Status' column can't be sorted because their sortable feature is not assigned yet.</div>
+		</div>
+		<table id="tt" title="Load Data" class="easyui-datagrid" style="width: 700px;height: 250px;" url="datagrid8_getdata.php" 
+			iconCls="icon-save" sortName="itemid" sortOrder "asc" rownumbers="true" pagination="true">
+			<thead>
+				<tr>
+					<th field="itemid" width="80" sortable="true">Item ID</th>
+                    <th field="productid" width="100" sortable="true">Product ID</th>
+                    <th field="listprice" width="80" align="right" sortable="true">List Price</th>
+                    <th field="unitcost" width="80" align="right" sortable="true">Unit Cost</th>
+                    <th field="attr1" width="220">Attribute</th>
+                    <th field="status" width="60" align="center">Stauts</th>
+				</tr>
+			</thead>
+		</table>
+	</body>
+
+</html>

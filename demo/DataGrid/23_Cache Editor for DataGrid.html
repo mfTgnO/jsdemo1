@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Cache Editor for DataGrid - jQuery EasyUI Demo</title>
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/default/easyui.css">
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/icon.css">
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/demo/demo.css">
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
+		<script type="text/javascript" src="http://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
+		<script type="text/javascript" src="http://www.jeasyui.com/easyui/datagrid-groupview.js"></script>
+	</head>
+	<body>
+		<h2>Cache Editor for DataGrid</h2>
+        <p>This example shows how to cache the editors for datagrid to improve the editing speed.</p>
+        <div style="margin:20px 0;"></div>
+        
+        <table id="dg" class="easyui-datagrid" title="Cache Editor for DataGrid" style="width: 700px;height: auto;
+        	data-options="
+        	iconCls:'icon-edit',
+        	singleSelect:true,
+        	toolbar:'#tb',
+        	url:'datagrid_data1.json',
+        	method:'get',
+        	onClickRow:onClickRow">
+        	<thead>
+        		<tr>
+        			<th data-options="field:'itemid',width:80">Item ID</th>
+                    <th data-options="field:'productid',width:100,
+                            formatter:function(value,row){
+                                return row.productname;
+                            },
+                            editor:{
+                                type:'combobox',
+                                options:{
+                                    valueField:'productid',
+                                    textField:'productname',
+                                    method:'get',
+                                    url:'products.json',
+                                    required:true
+                                }
+                            }">Product</th>
+                    <th data-options="field:'listprice',width:80,align:'right',editor:{type:'numberbox',options:{precision:1}}">List Price</th>
+                    <th data-options="field:'unitcost',width:80,align:'right',editor:'numberbox'">Unit Cost</th>
+                    <th data-options="field:'attr1',width:250,editor:'text'">Attribute</th>
+                    <th data-options="field:'status',width:60,align:'center',editor:{type:'checkbox',options:{on:'P',off:''}}">Status</th>
+        		</tr>
+        	</thead>	
+        </table>
+        
+        <div id="tb" style="height: auto;">
+        	<a href="javascript:void(0)" class="easyui-linkbutton" data-options="iconCls:'icon-save',plain:'true'" onclick="accept()">Accept</a>
+        	<a href="javascript:void(0)" class="easyui-linkbutton" data-options="iconCls:'icon-undo',plain:true" onclick="reject()">Reject</a>
+            <a href="javascript:void(0)" class="easyui-linkbutton" data-options="iconCls:'icon-search',plain:true" onclick="getChanges()">GetChanges</a>
+        </div>
+        
+        <script type="text/javascript">
+        	(function($){
+        		function getCacheContainer(t){
+        			var view = $(t).closest('div.datagrid-view');
+        			var c = view.children('div.datagrid-editor-cache');
+        			if (!c.length) {
+        				c = $('<div class="datagrid-editor-cache" style="position:absolute;display:none"></div>').appendTo(view);
+        			}
+        			return c;
+        		}
+        		function getCacheEditor(t,field){
+        			var c = getCacheContainer(t);
+        			return c.children('div.datgrid-editor-cache-'+field;)
+        		}
+        		function setCacheEditor(t,field,editor){
+        			var c = getCacheContainer(t);
+        			c.children('div.datagrid-editor-cache-'+field).remove();
+        			var e = $('<div class='datagrid-editor-cache-'+field+'''>');
+        		}
+        	})
+        </script>
+	</body>
+</html>

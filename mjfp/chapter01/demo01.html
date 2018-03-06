@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/default/easyui.css">
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/icon.css">
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/demo/demo.css">
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="http://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
+		<script type="text/javascript" src="http://www.jeasyui.com/easyui/datagrid-bufferview.js"></script>
+	</head>
+		<button id="billButton" onclick="billTheUser('billButton',some,sales,data)">
+			Bill me
+		</button>
+	<body>
+		<!--<script type="text/javascript">
+			describe("A suite", function() {
+			  it("contains spec with an expectation", function() {
+			    expect(true).toBe(true);
+			  });
+			});
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			// page:222
+			const sum3 = (x,y,z) => x + y + z;
+			let x = {};
+			x.valueOf = Math.random;
+			let y = 1;
+			let z = 2;
+			console.log(sum3(x,y,z));
+			console.log(sum3(x,y,z));
+			console.log(sum3(x,y,z));
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			const roundFix1 = (function(){
+				let accum = 0;
+				return n => {
+					let nRounded = accum > 0 ? Math.ceil(n) : Math.floor(n);
+					accum += n - nRounded;
+					return nRounded;
+				}
+			})();
+			
+			const roundFix2 = (a,n) => {
+				let r = a > 0 ? Math.ceil(n) :Math.floor(n);
+				a += n - r;
+				return {a,r};
+			};
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			let cache = [];
+			const fib3 = (n) => {
+				if (cache[n] == undefined) {
+					if (n == 0) {
+						cache[0] = 0;
+					} else if (n == 1){
+						cache[1] = 1;
+					} else{
+						cache[n] = fib3(n - 2) + fib3(n - 1);
+					}
+				}
+				return cache[n];
+			}
+			console.log(fib3(10));
+			console.log(fib3(15));
+			console.log(fib3(100));
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			// memoization
+			// Fibonacci sequence
+			const fib = (n) => {
+				if (n == 0) {
+					return 0;
+				} else if (n == 1){
+					return 1;
+				} else {
+					return fib(n - 2) + fib(n - 1);
+				}
+			}
+			const fib2 = (n) => (n <= 1) ? n : fib2(n - 2) + fib2(n - 1);
+			console.log(fib(10));
+			console.log(fib2(15));
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			var mult = 1;
+			const f = x => {
+				mult = -mult;
+				return x * mult;
+			};
+			console.log(f(2) + f(5));
+			console.log(f(5) + f(2));
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			const isOldEnough2 = birthYear =>
+			birthYear <= new Date().getFullYear() - 18;
+			console.log(isOldEnough2(1960));
+			console.log(isOldEnough2(2001));
+		</script>-->
+		
+		<script type="text/javascript">
+			const getRandomLetter = () => {
+				const min = "A".charCodeAt();
+				const max = "Z".charCodeAt();
+				return String.fromCharCode(
+					Math.floor(Math.random() * (1 + max - min)) + min
+				);
+			};
+			const getRandomFileName = (fileExtension = "") => {
+				const NAME_LENGTH = 12;
+				let namePart = new Array(NAME_LENGTH);
+				for (let i = 0; i < NAME_LENGTH;i++) {
+					namePart[i] = getRandomLetter();
+				}
+				return namePart.join("") + fileExtension;
+			}
+			console.log(getRandomFileName(".pdf"));
+			console.log(getRandomFileName(".pdf"));
+			console.log(getRandomFileName(".pdf"));
+			console.log(getRandomFileName(".pdf"));
+			console.log(getRandomFileName(".pdf"));
+			console.log(getRandomFileName(".pdf"));
+			console.log(getRandomFileName(".pdf"));
+		</script>
+		
+		<!--<script type="text/javascript">
+			const maxStrings2 = a => [...a].sort().pop();
+			let countries = ["Argentina", "Uruguay", "Brasil", "Paraguay"]; 
+			console.log(maxStrings2(countries));
+			console.log(countries);
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			const maxStrings = a => a.sort().pop();
+			let countries = ["Argentina", "Uruguay", "Brasil", "Paraguay"];
+			console.log(maxStrings(countries));
+			console.log(countries);
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			const roundFix = (function(){
+				let accum = 0;
+				return n => {
+					let nRounded = accum > 0 ? Math.ceil(n) : Math.floor(n)
+					console.log("accum",accum.toFixed(5)," result",nRounded);
+					accum += n - nRounded;
+					return nRounded;
+				};
+			})();
+			roundFix(3.14159); // accum  0.00000    result 3
+			roundFix(2.71828); // accum  0.14159    result 3
+			roundFix(2.71828); // accum -0.14013    result 2
+			roundFix(3.14159); // accum  0.57815    result 4
+			roundFix(2.71828); // accum -0.28026    result 2
+			roundFix(2.71828); // accum  0.43802    result 3
+			roundFix(2.71828); // accum  0.15630    result 3
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			const PI = 3.14159265358979;
+			const circleArea = r => PI * Math.pow(r,2); // or PI * r ** 2
+			const circleArea2 = r => Math.PI * Math.pow(r,2);
+			console.log(circleArea(2));
+			console.log(circleArea2(3));
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			let limitYear = 1999;
+			const isOldEnough = birthYear => birthYear <= limitYear;
+			console.log(isOldEnough(1960));
+			console.log(isOldEnough(2002));
+		</script>-->
+		<!--<script type="text/javascript">
+			// single counter
+			const myCounter = (function(){
+				let count = 0;
+				return function(){
+					count++;
+					return count;
+				}
+			})();
+			const aa = myCounter();
+			console.log(aa);
+			console.log(aa);
+			console.log(aa);
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			(function(){
+				function ready(){
+					console.log("ready");
+				}
+				function sett(){
+					console.log("sett");
+				}
+				function go(){
+					console.log("go");
+				}
+				ready();
+				sett();
+				go();
+			})();
+			function sett(){
+				console.log("unexception");
+			}
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			function ready(){
+				console.log("ready");
+			}
+			function set(){
+				console.log("set");
+			}
+			function go(){
+				console.log("go");
+			}
+			ready();
+			set();
+			go();
+			function set(){
+				console.log("UNEXCEPTION...");
+			}
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			(function(){
+				// do something
+			})();
+			// another equivalent style is
+			(function(){
+				// ...
+			}()) // note the different
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			const myLog = DEVELOPMENT ? someText => console.log(someText) : someText => {};
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			let myLog;
+			if (DEVELOPMENT) {
+				myLog = someText => console.log(someText);
+			} else{
+				myLog = someText => {};
+			}
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			let myLog = someText => {
+				if (DEVELOPMENT) {
+					console.log(someText); // or some other way of logging
+				} else{
+					// do nothing
+				}
+			}
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			var palabras = ["ñandú", "oasis","oasis", "mano", "natural", "mítico", "musical"];
+			var someNumbers = [3,20,100,1,3,45,54,675,78,3,8,6,9,5,8565,32];
+//			palabras.sort();
+//			palabras.sort((a,b) => a.localeCompare(b,"es"));
+			const spanishComparsion = (a,b) => a.localeCompare(b,"es");
+			const numberComparsion = (a,b) => a-b;
+			palabras.sort(spanishComparsion);
+			someNumbers.sort(numberComparsion);
+			console.log(someNumbers);
+			console.log(palabras);
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			var colors = [
+				"violet",
+				"indigo",
+				"blue",
+				"green",
+				"yellow",
+				"orange",
+				"red"
+			];
+			var someNumbers = [3,20,100];
+			colors.sort();
+			someNumbers.sort();
+			console.log(colors);
+			console.log(someNumbers);
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			const altSum3 = x => y => z => x + y + z;
+			/*console.log(altSum3(1)(2)(3));
+			console.log(altSum3(1,2,3));*/
+			let fn1 = altSum3(1);
+			let fn2 = fn1(2);
+			let f3 = fn2(3);
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			function listArgumentsES8(){
+				var myArray1 = Array.from(arguments);
+				var myArray2 = [...arguments];
+				console.log(myArray1);
+				console.log(myArray2);
+			}
+			listArgumentsES8(1234,89,413);
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			// code in ES8
+			function somethingElse(){
+				// 
+			}
+			function listArguments2(...args){
+				console.log(args);
+				somethingElse(...args);
+			}
+			listArguments2(12,4,56);
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			// js5 and earlier
+			function somethingElse(){
+				// 
+			}
+			function listArguments(){
+				console.log(arguments);
+				var myArray = Array.prototype.slice.call(arguments);
+				console.log(myArray);
+				somethingElse.apply(null,myArray);
+			}
+			listArguments(22,9,60);
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			function ShowItSelf2(identity){
+				this.identity = identity;
+				let that = this;
+				
+				setTimeout(function(){
+					console.log(that.identity);
+				},1000);
+				
+				setTimeout(
+					function(){
+						console.log(this.identity);
+					}.bind(this),
+					2000
+				);
+				setTimeout(function(){
+					console.log(that.identity);
+				},3000);
+			}
+			var x = new ShowItSelf2("JavaScript");
+		</script>-->
+		<!--<script type="text/javascript">
+			function ShowItSelf1(identity){
+				this.identity = identity;
+				setTimeout(function(){
+					console.log(this.identity);
+				},1000);
+			}
+			var x = new ShowItSelf1("Funtional");
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			const f1 = (x,y,z) => x + y + z;
+			const f2 = (x,y,z) => {
+				return x + y + z;
+			}
+			console.log(f2(1,2,3));
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			var sum3 = new Function("x","y","z","var t = x+y+z;return t;");
+			sum3(1,2,3);
+			console.log(sum3(1,2,3));
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			var myCounter = (function(initialValue = 0){
+				let count = initialValue;
+				return function(){
+					count++;
+					console.log(count);
+					return count;
+				}
+			})(10);
+			myCounter();
+			myCounter();
+			myCounter();
+			myCounter();
+		</script>-->
+		<!--<script type="text/javascript">
+			var second = function(){};
+			console.log(second.name);
+			
+			var myArray = new Array(3);
+			myArray[1] = function(){};
+			console.log(myArray[1].name);
+		</script>-->
+		<!--<script type="text/javascript">
+			let sayA = () => console.log("A");
+			let sayB = () => console.log("B");
+			let alt = alternator(sayA,sayB);
+			alt();
+			alt();
+			alt();
+			alt();
+			alt();
+			alt();
+		</script>-->
+		<!--<script type="text/javascript">
+			const onceAndAfter = (f,g) => {
+				let done = false;
+				return (...args) => {
+					if (!done) {
+						done = true;
+						f(...args);
+					} else {
+						g(...args);
+					}
+				}
+			}
+			const squeak = (x) => console.log(x,"squeak!");
+			const creak = (x) => console.log(x,"creak!");
+			const makeSecond = onceAndAfter(squeak,creak);
+			makeSecond("door");
+			makeSecond("door");
+			makeSecond("door");
+			makeSecond("door");
+		</script>-->
+		<!--<script type="text/javascript">
+			const once = f => {
+				let done = false;
+				return (...args) => {
+					if (!done) {
+						done = true;
+						f(...args);
+					}
+				}
+			}
+			
+			const squeak = a => console.log(a," squeak!");
+			squeak("original");
+			squeak("original");
+			squeak("original");
+			
+			const squeakOnce = once(squeak);
+			squeakOnce("only once");
+			squeakOnce("only once");
+			squeakOnce("only once");
+		</script>-->
+		<!--<script type="text/javascript">
+			console.log('asljdflaskdjf');
+			console.log(`asljdflaskdjf`);
+		</script>-->
+		<!--<script type="text/javascript">
+			var billTheUser = (clicked => {
+				return (some,sales,data) => {
+					if(!clicked){
+						clicked = true;
+						window.alert("Billing the user...");
+						// actually bill the user 
+					}
+				}
+			})
+		</script>-->
+		<!--
+			A higher-order solution
+		-->
+		<!--<script type="text/javascript">
+			const once = fn => {
+				let done = false;
+				return (...args) => {
+					if (!done) {
+						done = true;
+						fn(...args);
+					}
+				}
+			}
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			function newCounter() {
+				let count = 0;
+				return function() {
+					count++;
+					return count;
+				}
+			}
+			const nd = newCounter();
+			console.log(nd());
+			console.log(nd());
+			console.log(nd());
+		</script>-->
+		
+		<!--<script type="text/javascript">
+			const makeSaluteClass = term =>
+				class {
+					constructor(x){
+						this.x=x;
+					}
+					
+					salute(y){
+						console.log(`${this.x} says "${term}" to ${y}`);
+						console.log('asljdflaskdjf');
+						console.log(`asljdflaskdjf`);
+					}
+				};
+				
+			const Spanish = makeSaluteClass("HOLA");
+			new Spanish("ALFA").salute("BETA");
+			// ALFA says "HOLA" to BETA
+			new (makeSaluteClass("HELLO"))("GAMMA").salute("DELTA");
+			// GAMMA says "HELLO" to DELTA
+			const fullSalute = (c,x,y) => new c(x).salute(y);
+			const French = makeSaluteClass("BON JOUR");
+			fullSalute(French,"EPSILON","ZETA");
+			// EPSILON says "BON JOUR" to ZETA
+		</script>-->
+	</body>
+
+</html>

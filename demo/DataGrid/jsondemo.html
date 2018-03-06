@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/themes/default/easyui.css">
+		<link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/themes/icon.css">
+		<link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/themes/color.css">
+		<link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/demo/demo.css">
+		<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="https://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
+	</head>
+
+	<body>
+		<!--<input type="button" value="Click me" onclick="getJson()" />-->
+		<script type="text/javascript">
+			/*$(function() {
+				$(document).ready(function() {
+					$.getJSON("datagrid_data1.json",
+						function(data) {
+							alert(employees[1].firstName);
+						});
+				});
+			});
+*/
+			getJson('name');
+
+			function getJson(key) {
+				var jsonObj = {
+					"name": "傅红雪",
+					"age": "24",
+					"profession": "刺客"
+				};
+				//1、使用eval方法     
+				var eValue = eval('jsonObj.' + key);
+				alert(eValue);
+				//2、遍历Json串获取其属性 
+				for(var item in jsonObj) {
+					if(item == key) { //item 表示Json串中的属性，如'name' 
+						var jValue = jsonObj[item]; //key所对应的value 
+						alert(jValue);
+					}
+				}
+				//3、直接获取 
+				alert(jsonObj['' + key + '']);
+			}
+		</script>
+	</body>
+
+</html>

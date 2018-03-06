@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/default/easyui.css">
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/icon.css">
+		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/demo/demo.css">
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="http://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
+		<script type="text/javascript" src="http://www.jeasyui.com/easyui/datagrid-bufferview.js"></script>
+	</head>
+
+	<body>
+		<form>
+			<!--<label for="male">Male</label>
+			<input type="radio" name="sex" id="male" />
+			<br />
+			<label for="female">Female</label>
+			<input type="radio" name="sex" id="female" />-->
+		</form>
+		<!--<script type="text/javascript">
+			function fact(n) {
+				if(n === 0) {
+					return 1;
+				} else {
+					return n * fact(n - 1);
+				}
+			}
+			console.log(fact(5));
+		</script>-->
+		<!--<script type="text/javascript">
+			const fact2 = n => {
+				if(n === 0) {
+					return 1;
+				} else {
+					return n * fact2(n - 1);
+				}
+			}
+			console.log(fact2(5));
+		</script>-->
+		<!--<script type="text/javascript">
+			const fact3 = n => (n === 0 ? 1 : n * fact3(n - 1));
+			console.log(fact3(6));
+		</script>-->
+		<!--<script type="text/javascript">
+			const x = [1, 2, 3];
+
+			function sum3(a, b, c) {
+				return a + b + c;
+			}
+			const y = sum3(...x);// equivalent to sum3(1,2,3)
+			console.log(y);
+		</script>-->
+		<!--<script type="text/javascript">
+			const numbers = [2, 2, 9, 6, 0, 1, 2, 4, 5, 6];
+			const minA = Math.min(...numbers);
+
+			const maxArray = arr => Math.max(...arr);
+			const maxA = maxArray(numbers);
+			console.log(minA);
+			console.log(maxA);
+		</script>-->
+		<script type="text/javascript">
+			const makeSaluteClass = term =>
+				class {
+					constructor(x) {
+						this.x = x;
+					}
+					salute(y) {
+						console.log('${this.x} says "${term}" to ${y}');
+					}
+				};
+
+			const Spanish = makeSaluteClass("HOLA");
+			new Spanish("ALFA").salute("BETA");
+
+			new(makeSaluteClass("HELLO"))("GAMMA").salute("DELTA");
+
+			const fullSalute = (c, x, y) => new c(x).salute(y);
+			const French = makeSaluteClass("BON JOUR");
+			fullSalute(French, "EPSILON", "ZETA");
+		</script>
+		<!--
+			
+		<script type="text/javascript"></script>
+		
+		-->
+	</body>
+
+</html>
