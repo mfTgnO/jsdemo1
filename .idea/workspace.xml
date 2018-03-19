@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="Calculating an average.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/serachArray.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/serachAArray.js" afterPath="" />
+    <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mjfp/chapter1/shuffle.js" afterPath="$PROJECT_DIR$/mjfp/chapter1/shuffle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/delinquent.js" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/delinquent.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/page281.html" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/page281.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/page284.html" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/page284.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/serviceResult.json" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/serviceResult.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/SummingAnArray.js" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/SummingAnArray.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/average.js" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/average.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/emulate.js" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/emulate.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/factorialByRange.js" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/factorialByRange.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/markers.js" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/markers.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/objCopy.js" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/objCopy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page249.html" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page249.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page253.html" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page253.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page258.html" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page258.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page265.html" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page265.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page267.html" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page267.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page270.html" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page270.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page273.html" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page273.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page275.html" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page275.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/parseNumber.js" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/parseNumber.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/range.js" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/range.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/reverstString.js" afterPath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/reverstString.js" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -435,7 +411,7 @@
       <workItem from="1521249224766" duration="7309000" />
       <workItem from="1521272135154" duration="7250000" />
       <workItem from="1521421068769" duration="12487000" />
-      <workItem from="1521448604913" duration="4804000" />
+      <workItem from="1521448604913" duration="4942000" />
     </task>
     <task id="LOCAL-00001" summary="add local jquery file.">
       <created>1520560797382</created>
@@ -465,11 +441,25 @@
       <option name="project" value="LOCAL" />
       <updated>1520834460898</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="wrapping function.">
+      <created>1521458319608</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521458319608</updated>
+    </task>
+    <task id="LOCAL-00006" summary="wrapping function.">
+      <created>1521458373700</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1521458373700</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53674000" />
+    <option name="totallyTimeSpent" value="53812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
@@ -477,10 +467,10 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30260304" sideWeight="0.5085197" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45336226" sideWeight="0.5106496" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45336226" sideWeight="0.4914803" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45336226" sideWeight="0.48935038" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4142705" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
@@ -561,7 +551,8 @@
     <MESSAGE value="chapter01 rename chapter1." />
     <MESSAGE value="page249." />
     <MESSAGE value="Calculating an average." />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculating an average." />
+    <MESSAGE value="wrapping function." />
+    <option name="LAST_COMMIT_MESSAGE" value="wrapping function." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -598,6 +589,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -619,6 +611,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -626,6 +619,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -717,6 +711,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -724,6 +719,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -738,6 +734,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -745,6 +742,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -752,6 +750,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -766,6 +765,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -773,6 +773,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -794,6 +795,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -801,6 +803,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -815,6 +818,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -823,6 +827,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -851,6 +856,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -858,6 +864,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -865,6 +872,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
