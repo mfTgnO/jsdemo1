@@ -7,5 +7,5 @@ const shuffle = arr => {
 	return arr;
 }
 
-var xxx = [11, 22, 33, 44, 55, 66, 77, 88];
-console.log(shuffle(xxx));
+// var xxx = [11, 22, 33, 44, 55, 66, 77, 88];
+// console.log(shuffle(xxx));
