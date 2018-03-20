@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addTiming.js" afterPath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addTiming.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305.html" afterPath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/moz/js/Standard_built-in_objects/Array/Array.prototype.reduce.html" afterPath="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/Array/Array.prototype.reduce.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/moz/js/Standard_built-in_objects/Array/Array.prototype.reduce.js" afterPath="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/Array/Array.prototype.reduce.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/moz/js/Standard_built-in_objects/Array/reduceDemo.js" afterPath="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/Array/reduceDemo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/moz/js/StatementsAndDeclarations/const.js" afterPath="$PROJECT_DIR$/mozilla/web/javascript/StatementsAndDeclarations/const.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/moz/js/StatementsAndDeclarations/statementsAndDeclarations.html" afterPath="$PROJECT_DIR$/mozilla/web/javascript/StatementsAndDeclarations/statementsAndDeclarations.html" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +27,18 @@
       <file leaf-file-name="page305.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+            <state relative-caret-position="575">
+              <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="memoizing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -30,8 +47,8 @@
       <file leaf-file-name="addLogging.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addLogging.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+            <state relative-caret-position="475">
+              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -39,61 +56,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page305jasmine.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305jasmine.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page315.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page315.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addTiming.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addTiming.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addTiming.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page237.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mjfp/chapter1/page237.html">
+      <file leaf-file-name="fib.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/fib.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shuffle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mjfp/chapter1/shuffle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page237jasmine.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mjfp/chapter1/page237jasmine.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="425">
+              <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -166,14 +143,18 @@
         <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/serachAArray.js" />
         <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/page284.html" />
         <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/serachArray.js" />
-        <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305.html" />
         <option value="$PROJECT_DIR$/mjfp/chapter1/page237jasmine.js" />
         <option value="$PROJECT_DIR$/mjfp/chapter1/shuffle.js" />
         <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/Logging.js" />
         <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305jasmine.js" />
         <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addLogging.js" />
         <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page315.html" />
+        <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305.html" />
+        <option value="$PROJECT_DIR$/mozilla/webAPIs/performance/now.js" />
+        <option value="$PROJECT_DIR$/mozilla/webAPIs/performance/now.html" />
+        <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html" />
         <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addTiming.js" />
+        <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/fib.js" />
       </list>
     </option>
   </component>
@@ -184,8 +165,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
+    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1036" />
   </component>
@@ -226,6 +206,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,13 +234,28 @@
               <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
               <item name="Wrappingfunctions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
+              <item name="webAPIs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
+              <item name="webAPIs" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,6 +266,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\hb_ws\demo01\mozilla\web\javascript" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\hb_ws\demo01\jquery" />
     </key>
@@ -284,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.page305.html">
+  <component name="RunManager" selected="JavaScript Debug.memoizing.html">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -366,25 +367,25 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="addTiming.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="addTiming.js" working-dir="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions" />
+    <configuration name="memoizing.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html" />
+    <configuration name="now.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mozilla/webAPIs/performance/now.html" />
     <configuration name="page237.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mjfp/chapter1/page237.html" />
-    <configuration name="page273.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page273.html" />
-    <configuration name="page281.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/page281.html" />
-    <configuration name="page284.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/page284.html" />
     <configuration name="page305.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.page273.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.page281.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.page284.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.page305.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page237.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.page305.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.page237.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.addTiming.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.now.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.memoizing.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.page305.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.page237.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.page284.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.page281.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page273.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.memoizing.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.now.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.addTiming.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.page305.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page237.html" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +412,9 @@
       <workItem from="1521249224766" duration="7309000" />
       <workItem from="1521272135154" duration="7250000" />
       <workItem from="1521421068769" duration="12487000" />
-      <workItem from="1521448604913" duration="4942000" />
+      <workItem from="1521448604913" duration="4969000" />
+      <workItem from="1521507295044" duration="4692000" />
+      <workItem from="1521536805755" duration="5668000" />
     </task>
     <task id="LOCAL-00001" summary="add local jquery file.">
       <created>1520560797382</created>
@@ -455,31 +458,47 @@
       <option name="project" value="LOCAL" />
       <updated>1521458373700</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="wrapping function.">
+      <created>1521458408340</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1521458408340</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53812000" />
+    <option name="totallyTimeSpent" value="64199000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45336226" sideWeight="0.5106496" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23632385" sideWeight="0.5153846" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7310195" sideWeight="0.4846154" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45336226" sideWeight="0.48935038" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4142705" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66923076" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2550586" sideWeight="0.50701755" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6691974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -559,40 +578,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mjfp/chapter1/shuffle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mjfp/chapter1/page237jasmine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addLogging.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page270.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/factorialByRange.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -611,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -619,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,28 +662,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mjfp/moz/js/Standard_built-in_objects/Array/Array.prototype.reduce.js">
+    <entry file="file://$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/Array/Array.prototype.reduce.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mjfp/moz/js/Standard_built-in_objects/Array/reduceDemo.js">
+    <entry file="file://$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/Array/reduceDemo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mjfp/moz/js/Standard_built-in_objects/Array/Array.prototype.reduce.html">
+    <entry file="file://$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/Array/Array.prototype.reduce.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="43" column="37" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mjfp/moz/js/StatementsAndDeclarations/const.js">
+    <entry file="file://$PROJECT_DIR$/mozilla/web/javascript/StatementsAndDeclarations/const.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
@@ -711,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,7 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -827,7 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,7 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -864,7 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -872,7 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -880,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -888,7 +856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,48 +863,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        <state relative-caret-position="575">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addLogging.js">
+    <entry file="file://$PROJECT_DIR$/mozilla/webAPIs/performance/now.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        <state relative-caret-position="300">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mozilla/webAPIs/performance/now.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305jasmine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305jasmine.js">
+    <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page315.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page315.html">
+    <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="225">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addTiming.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addLogging.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/fib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding />
         </state>
       </provider>
