@@ -2,68 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/circleArea.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/circleArea.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/demo01.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/demo01.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/getRandomFileName.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/getRandomFileName.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/getRandomLetter_.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/getRandomLetter_.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/isOldEnough3.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/isOldEnough3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/MIT.LICENSE" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/MIT.LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/SpecRunner.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/SpecRunner.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/lib/jasmine-3.1.0/boot.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/lib/jasmine-3.1.0/boot.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/lib/jasmine-3.1.0/jasmine-html.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/lib/jasmine-3.1.0/jasmine-html.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/lib/jasmine-3.1.0/jasmine.css" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/lib/jasmine-3.1.0/jasmine.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/lib/jasmine-3.1.0/jasmine.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/lib/jasmine-3.1.0/jasmine.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/lib/jasmine-3.1.0/jasmine_favicon.png" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/lib/jasmine-3.1.0/jasmine_favicon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/spec/PlayerSpec.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/spec/PlayerSpec.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/spec/SpecHelper.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/spec/SpecHelper.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/src/Player.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/src/Player.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/jasmine-standalone-3.1.0/src/Song.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/jasmine-standalone-3.1.0/src/Song.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page226.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page226.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page226_1.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page226_1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page226_1jasmine.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page226_1jasmine.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page226jasmine.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page226jasmine.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page229.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page229.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page229jasmine.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page229jasmine.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page231jasmine.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page231jasmine.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page233.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page233.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page233jasmine.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page233jasmine.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page237.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page237.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/page237jasmine.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page237jasmine.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/roundFix2.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/roundFix2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/shuffle.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/shuffle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/test/src.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/test/src.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/test/test.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/test/test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter1/test/test.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/test/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/delinquent.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/delinquent.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/page281.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/page281.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/page284.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/page284.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/serachArray.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/serachArray.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/serviceResult.json" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Logicalhigher-orderfunctions/serviceResult.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/SummingAnArray.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/SummingAnArray.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/average.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/average.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/emulate.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/emulate.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/factorialByRange.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/factorialByRange.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/markers.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/markers.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/objCopy.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/objCopy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page249.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page249.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page253.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page253.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page258.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page258.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page265.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page265.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page267.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page267.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page270.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page270.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page273.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page273.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page275.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page275.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/parseNumber.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/parseNumber.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/range.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/range.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/reverstString.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/reverstString.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addLogging.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addLogging.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addTiming.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addTiming.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/fib.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/fib.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305jasmine.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305jasmine.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page315.html" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page315.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/DataGrid/26_Footer Rows in DataGrid.html" afterPath="$PROJECT_DIR$/demo/DataGrid/26_Footer Rows in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo01.iml" afterPath="$PROJECT_DIR$/jstrain.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -156,6 +98,7 @@
         <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html" />
         <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addTiming.js" />
         <option value="$PROJECT_DIR$/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/fib.js" />
+        <option value="$PROJECT_DIR$/demo/DataGrid/26_Footer Rows in DataGrid.html" />
       </list>
     </option>
   </component>
@@ -207,9 +150,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Changed Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="demo01" type="cbb8eebc:String" user="demo01" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="demo01" type="cbb8eebc:String" user="demo01" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="demo01" type="cbb8eebc:String" user="demo01" />
+              <item name="demo/DataGrid" type="cbb8eebc:String" user="demo/DataGrid" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,6 +183,18 @@
               <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
               <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6ProgrammingDeclaratively-ABetterStyle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
@@ -244,6 +218,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,7 +248,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.now.html">
+  <component name="RunManager" selected="JavaScript Debug.26_Footer Rows in DataGrid.html">
+    <configuration name="26_Footer Rows in DataGrid.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/demo/DataGrid/26_Footer Rows in DataGrid.html" />
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -314,6 +290,18 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="demo01" />
+      <envs />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -358,22 +346,21 @@
     <configuration name="addTiming.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/addTiming.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions" />
     <configuration name="memoizing.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html" />
     <configuration name="now.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mozilla/webAPIs/performance/now.html" />
-    <configuration name="page237.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mjfp/chapter1/page237.html" />
     <configuration name="page305.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/mjfp/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305.html" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.page305.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.page237.html" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.addTiming.js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.now.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.memoizing.html" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.addTiming.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.now.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.memoizing.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.26_Footer Rows in DataGrid.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.now.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.memoizing.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.addTiming.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.page305.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page237.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.26_Footer Rows in DataGrid.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.now.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.memoizing.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.addTiming.js" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page305.html" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +393,11 @@
       <workItem from="1521594349017" duration="625000" />
       <workItem from="1521601798523" duration="15000" />
       <workItem from="1521623265349" duration="82000" />
-      <workItem from="1521679620507" duration="82000" />
+      <workItem from="1521679620507" duration="388000" />
+      <workItem from="1521686879406" duration="2235000" />
+      <workItem from="1521689382921" duration="173000" />
+      <workItem from="1521689589415" duration="68000" />
+      <workItem from="1521689670066" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="add local jquery file.">
       <created>1520560797382</created>
@@ -457,11 +448,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521458408340</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="rename">
+      <created>1521679740866</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1521679740866</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65463000" />
+    <option name="totallyTimeSpent" value="68360000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,13 +476,13 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27006507" sideWeight="0.52396166" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27006507" sideWeight="0.5260916" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27006507" sideWeight="0.47603834" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27006507" sideWeight="0.47390842" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34771034" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25878593" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -563,34 +561,14 @@
     <MESSAGE value="page249." />
     <MESSAGE value="Calculating an average." />
     <MESSAGE value="wrapping function." />
-    <option name="LAST_COMMIT_MESSAGE" value="wrapping function." />
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/factorialByRange.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/range.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/emulate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page273.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -918,6 +896,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/DataGrid/26_Footer Rows in DataGrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/DataGrid/datagrid_data2.json" />
+    <entry file="file://$PROJECT_DIR$/demo/DataGrid/demo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>

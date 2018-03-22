@@ -1,78 +1,93 @@
 <!DOCTYPE html>
 <html>
 
-	<head>
-		<meta charset="UTF-8">
-		<title>Footer Rows in DataGrid - jQuery EasyUI Demo</title>
-		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/default/easyui.css">
-		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/icon.css">
-		<link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/demo/demo.css">
-		<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
-		<script type="text/javascript" src="http://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
-		<script type="text/javascript" src="http://www.jeasyui.com/easyui/datagrid-groupview.js"></script>
-	</head>
+<head>
+    <meta charset="UTF-8">
+    <title>Footer Rows in DataGrid - jQuery EasyUI Demo</title>
+    <link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/default/easyui.css">
+    <link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/themes/icon.css">
+    <link rel="stylesheet" type="text/css" href="http://www.jeasyui.com/easyui/demo/demo.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
+    <script type="text/javascript" src="http://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
+    <script type="text/javascript" src="http://www.jeasyui.com/easyui/datagrid-groupview.js"></script>
+</head>
 
-	<body>
-		<h2>Footer Rows in DataGrid</h2>
-		<p>The summary informations can be displayed in footer rows.</p>
-		<!--<table class="easyui-datagrid" title="Footer Rows in DataGrid" style="width: 700px;height: 220px;" data-options="
+<body>
+<h2>Footer Rows in DataGrid</h2>
+<p>The summary information can be displayed in footer rows.</p>
+<table id="dg" class="easyui-datagrid" title="Footer Rows in DataGrid" style="width: 700px;height: 220px;"
+       data-options="
         	url:'datagrid_data1.json',
         	method:'get',
         	fitColumns:true,
         	singleSelect:true,
-        	rownumbers:true,
-        	showFooter:true">
-			<thead>
-				<tr>
-					<th data-options="field:'itemid',width:80">Item ID</th>
-					<th data-options="field:'productid',width:120">Product ID</th>
-					<th data-options="field:'listprice',width:80,align:'right'">List Price</th>
-					<th data-options="field:'unitcost',width:80,align:'right'">Unit Cost</th>
-					<th data-options="field:'attr1',width:250">Attribute</th>
-					<th data-options="field:'status',width:60,align:'center'">Status</th>
-				</tr>
-			</thead>
-		</table>-->
-		<!--<table class="easyui-datagrid" title="Footer Rows in DataGrid" style="width:700px;height:220px"
-                data-options="
-                    url: 'datagrid_data1.json',
-                    method: 'get',
-                    fitColumns: true,
-                    singleSelect: true,
-                    rownumbers: true,
-                    showFooter: true
-                ">
-            <thead>
-                <tr>
-                    <th data-options="field:'itemid',width:80">Item ID</th>
-                    <th data-options="field:'productid',width:120">Product ID</th>
-                    <th data-options="field:'listprice',width:80,align:'right'">List Price</th>
-                    <th data-options="field:'unitcost',width:80,align:'right'">Unit Cost</th>
-                    <th data-options="field:'attr1',width:250">Attribute</th>
-                    <th data-options="field:'status',width:60,align:'center'">Status</th>
-                </tr>
-            </thead>
-        </table>-->
-        <table class="easyui-datagrid" title="Footer Rows in DataGrid" style="width:700px;height:220px"
-                data-options="
-                    url: 'datagrid_data1.json',
-                    method: 'get',
-                    fitColumns: true,
-                    singleSelect: true,
-                    rownumbers: true,
-                    showFooter: false
-                ">
-            <thead>
-                <tr>
-                    <th data-options="field:'itemid',width:80">Item ID</th>
-                    <th data-options="field:'productid',width:120">Product ID</th>
-                    <th data-options="field:'listprice',width:80,align:'right'">List Price</th>
-                    <th data-options="field:'unitcost',width:80,align:'right'">Unit Cost</th>
-                    <th data-options="field:'attr1',width:250">Attribute</th>
-                    <th data-options="field:'status',width:60,align:'center'">Status</th>
-                </tr>
-            </thead>
-        </table>
-	</body>
+        	rownumbers:true">
+    <thead>
+    <tr>
+        <th data-options="field:'itemid',width:80">Item ID</th>
+        <th data-options="field:'productid',width:120">Product ID</th>
+        <th data-options="field:'listprice',width:80,align:'right'">List Price</th>
+        <th data-options="field:'unitcost',width:80,align:'right'">Unit Cost</th>
+        <th data-options="field:'attr1',width:250">Attribute</th>
+        <th data-options="field:'status',width:60,align:'center'">Status</th>
+    </tr>
+    </thead>
+</table>
+</body>
+<script type="text/javascript">
+    $(function () {
+        $('#dg').datagrid({
+            onLoadSuccess: compute,
+            showFooter:true,
+            showHeader,false
+        });
+    });
 
+    function compute() { //计算函数
+        let rows = $('#dg').datagrid('getRows') //获取当前的数据行
+        let ptotal = 0 //计算listprice的总和
+            ,
+            utotal = 0; //统计unitcost的总和
+        for (let i = 0; i < rows.length; i++) {
+            ptotal += parseFloat(rows[i]['listprice']);
+            utotal += parseFloat(rows[i]['unitcost']);
+        }
+
+        //新增一行显示统计信息
+        $('#dg').datagrid('appendRow', {
+            itemid: '<b>统计：</b>',
+            listprice: ptotal.toFixed(1),
+            unitcost: utotal.toFixed(2)
+        });
+    }
+    /*$('#dg').datagrid({
+        onLoadSuccess: function (data) {
+            var len = document.getElementById('dg').rows[1].cells.length;
+            alert(len);
+            //				alert(data)
+            var tds = document.getElementById('dg').getElementsByTagName('td');
+            var sum = 0;
+            for (var i = 0; i < tds.length; i++) {
+                if (tds[i].className == 'field') {
+                    sum += isNaN(tds[i].innerHTML) ? 0 : parseInt(tds[i].innerHTML);
+                }
+            }
+            document.getElementById('dg').innerHTML += '<tr><td>' + sum + '</td><td>total</td></tr>';
+            alert(sum);
+        }
+    });
+
+    function calcTotal(txtBox, totBox) {
+        var totVal;
+        try {
+            totVal = document.getElementById(totBox).value;
+            if (totVal != null && totVal != '') {
+                document.getElementById(totBox).value = eval(parseInt(document.getElementById(totBox).value) + parseInt(txtBox.value));
+            } else {
+                document.getElementById(totBox).value = txtBox.value;
+            }
+        } catch (e) {
+        }
+    }*/
+</script>
 </html>
