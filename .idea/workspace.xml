@@ -2,10 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crud_datagrid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portal.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/DataGrid/26_Footer Rows in DataGrid.html" afterPath="$PROJECT_DIR$/demo/DataGrid/26_Footer Rows in DataGrid.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demo01.iml" afterPath="$PROJECT_DIR$/jstrain.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Accordion/Accordion Actions.html" afterPath="$PROJECT_DIR$/easyui/Accordion/Accordion Actions.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Accordion/Accordion Tools.html" afterPath="$PROJECT_DIR$/easyui/Accordion/Accordion Tools.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Accordion/Basic.html" afterPath="$PROJECT_DIR$/easyui/Accordion/Basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Accordion/Fluid Accordion.html" afterPath="$PROJECT_DIR$/easyui/Accordion/Fluid Accordion.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Accordion/Horizontal Accordion.html" afterPath="$PROJECT_DIR$/easyui/Accordion/Horizontal Accordion.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Accordion/Keep Expandable.html" afterPath="$PROJECT_DIR$/easyui/Accordion/Keep Expandable.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Accordion/Loading Accordion Content with AJAX.html" afterPath="$PROJECT_DIR$/easyui/Accordion/Loading Accordion Content with AJAX.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Accordion/Multiple Accordion Panels.html" afterPath="$PROJECT_DIR$/easyui/Accordion/Multiple Accordion Panels.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Application/Basic CRUD.html" afterPath="$PROJECT_DIR$/easyui/Application/Basic CRUD.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/01_Basic.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/01_Basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/02_Extra Icons.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/02_Extra Icons.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/03_Load Dynamic ComboBox Data.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/03_Load Dynamic ComboBox Data.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/04_Multiple Select.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/04_Multiple Select.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/05_Multiline ComboBox.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/05_Multiline ComboBox.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/06_Navigate.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/06_Navigate.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/07_Group ComboBox.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/07_Group ComboBox.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/08_Custom Format in ComboBox.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/08_Custom Format in ComboBox.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/09_Show Item Icon in ComboBox.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/09_Show Item Icon in ComboBox.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/10_Binding to Remote Data.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/10_Binding to Remote Data.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/11_Remote JSONP.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/11_Remote JSONP.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/12_ComboBox Actions.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/12_ComboBox Actions.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/ComboBox/13_Fluid ComboBox.html" afterPath="$PROJECT_DIR$/easyui/ComboBox/13_Fluid ComboBox.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/01_Basic DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/01_Basic DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/02_Transform DataGrid from Table.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/02_Transform DataGrid from Table.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/03_Row Border in DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/03_Row Border in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/04_DataGrid Selection.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/04_DataGrid Selection.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/05_CheckBox Selection on DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/05_CheckBox Selection on DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/06_DataGrid with Toolbar.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/06_DataGrid with Toolbar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/07_DataGrid Complex Toolbar.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/07_DataGrid Complex Toolbar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/08_DataGrid Filter Row.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/08_DataGrid Filter Row.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/09_Remote Filtering on DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/09_Remote Filtering on DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/10_Custom DataGrid Pager.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/10_Custom DataGrid Pager.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/11_Server Side Pagination in DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/11_Server Side Pagination in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/12_Client Side Pagination in DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/12_Client Side Pagination in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/13_Sorting.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/13_Sorting.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/14_Multiple Sorting.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/14_Multiple Sorting.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/15_Column Group.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/15_Column Group.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/16_Aligning Columns in DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/16_Aligning Columns in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/17_Frozen Columns in DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/17_Frozen Columns in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/18_Format DataGrid Columns.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/18_Format DataGrid Columns.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/19_Frozen Rows in DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/19_Frozen Rows in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/20_Group Rows in DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/20_Group Rows in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/21_Row Editing in DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/21_Row Editing in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/22_Cell Editing in DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/22_Cell Editing in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/23_Cache Editor for DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/23_Cache Editor for DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/24_DataGrid Row Style.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/24_DataGrid Row Style.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/25_DataGrid Cell Style.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/25_DataGrid Cell Style.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/26_Footer Rows in DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/26_Footer Rows in DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/27_Merge Cells for DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/27_Merge Cells for DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/28_Context Menu on DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/28_Context Menu on DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/29_Master Detail.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/29_Master Detail.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/30_SubGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/30_SubGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/31_Nested SubGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/31_Nested SubGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/32_Large Data.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/32_Large Data.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/33_Card View.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/33_Card View.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/34_Buffer View.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/34_Buffer View.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/35_blur.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/35_blur.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/36_Virtual Scroll View.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/36_Virtual Scroll View.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/37_Virtual Scroll View(Detail Rows).html" afterPath="$PROJECT_DIR$/easyui/DataGrid/37_Virtual Scroll View(Detail Rows).html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/38_Fluid DataGrid.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/38_Fluid DataGrid.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/datagrid_data1.json" afterPath="$PROJECT_DIR$/easyui/DataGrid/datagrid_data1.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/demo.json" afterPath="$PROJECT_DIR$/easyui/DataGrid/demo.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataGrid/jsondemo.html" afterPath="$PROJECT_DIR$/easyui/DataGrid/jsondemo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataList/01_Basic.html" afterPath="$PROJECT_DIR$/easyui/DataList/01_Basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataList/02_Group DataList.html" afterPath="$PROJECT_DIR$/easyui/DataList/02_Group DataList.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataList/03_Multiple Selection DataList.html" afterPath="$PROJECT_DIR$/easyui/DataList/03_Multiple Selection DataList.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataList/04_Binding to Remote Data.html" afterPath="$PROJECT_DIR$/easyui/DataList/04_Binding to Remote Data.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataList/05_Checkbox in DataList.html" afterPath="$PROJECT_DIR$/easyui/DataList/05_Checkbox in DataList.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DataList/datagrid_data1.json" afterPath="$PROJECT_DIR$/easyui/DataList/datagrid_data1.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DateBox/01_Basic.html" afterPath="$PROJECT_DIR$/easyui/DateBox/01_Basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DateBox/02_Date Format.html" afterPath="$PROJECT_DIR$/easyui/DateBox/02_Date Format.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DateBox/03_DateBox Buttons.html" afterPath="$PROJECT_DIR$/easyui/DateBox/03_DateBox Buttons.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DateBox/04_Validate DateBox.html" afterPath="$PROJECT_DIR$/easyui/DateBox/04_Validate DateBox.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/DateBox/05_Restrict Date.html" afterPath="$PROJECT_DIR$/easyui/DateBox/05_Restrict Date.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Layout/Add and Remove Layout.html" afterPath="$PROJECT_DIR$/easyui/Layout/Add and Remove Layout.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Layout/Auto Height.html" afterPath="$PROJECT_DIR$/easyui/Layout/Auto Height.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Layout/Basic.html" afterPath="$PROJECT_DIR$/easyui/Layout/Basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Layout/Collapse Title.html" afterPath="$PROJECT_DIR$/easyui/Layout/Collapse Title.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Layout/Complex Layout.html" afterPath="$PROJECT_DIR$/easyui/Layout/Complex Layout.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Layout/Custom Collapse Title.html" afterPath="$PROJECT_DIR$/easyui/Layout/Custom Collapse Title.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Layout/Fluid Layout.html" afterPath="$PROJECT_DIR$/easyui/Layout/Fluid Layout.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Layout/Nested Layout.html" afterPath="$PROJECT_DIR$/easyui/Layout/Nested Layout.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Layout/No collapsible button in Layout.html" afterPath="$PROJECT_DIR$/easyui/Layout/No collapsible button in Layout.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Layout/datagrid_data1.json" afterPath="$PROJECT_DIR$/easyui/Layout/datagrid_data1.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/PropertyGrid/Basic.html" afterPath="$PROJECT_DIR$/easyui/PropertyGrid/Basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/SearchBox/01_Basic.html" afterPath="$PROJECT_DIR$/easyui/SearchBox/01_Basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/SearchBox/02_Search Category.html" afterPath="$PROJECT_DIR$/easyui/SearchBox/02_Search Category.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/SearchBox/03_Fluid SearchBox.html" afterPath="$PROJECT_DIR$/easyui/SearchBox/03_Fluid SearchBox.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Auto Height.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Auto Height.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Basic.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Fixed Tab Width.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Fixed Tab Width.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Fluid Tabs.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Fluid Tabs.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Hover Tabs.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Hover Tabs.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Nested Tabs.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Nested Tabs.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Strip Tools.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Strip Tools.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Tab Position.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Tab Position.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Tabs Style.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Tabs Style.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Tabs Tools.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Tabs Tools.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Tabs with DropDown.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Tabs with DropDown.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tabs/Tabs with Images.html" afterPath="$PROJECT_DIR$/easyui/Tabs/Tabs with Images.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/Tree/Basic.html" afterPath="$PROJECT_DIR$/easyui/Tree/Basic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/other/demo02.html" afterPath="$PROJECT_DIR$/easyui/other/demo02.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/other/label_demo.html" afterPath="$PROJECT_DIR$/easyui/other/label_demo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/panel/Custom Panel Tools.html" afterPath="$PROJECT_DIR$/easyui/panel/Custom Panel Tools.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/panel/Fluid Panel.html" afterPath="$PROJECT_DIR$/easyui/panel/Fluid Panel.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/panel/Load Panel Content.html" afterPath="$PROJECT_DIR$/easyui/panel/Load Panel Content.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/panel/Nested Panel.html" afterPath="$PROJECT_DIR$/easyui/panel/Nested Panel.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/panel/Panel Footer.html" afterPath="$PROJECT_DIR$/easyui/panel/Panel Footer.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/panel/Panel Header Alignment.html" afterPath="$PROJECT_DIR$/easyui/panel/Panel Header Alignment.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/panel/Panel Tools.html" afterPath="$PROJECT_DIR$/easyui/panel/Panel Tools.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/demo/panel/demo01.html" afterPath="$PROJECT_DIR$/easyui/panel/demo01.html" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +134,28 @@
     <favorites_list name="demo01" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="26_Footer Rows in DataGrid.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easyui/DataGrid/26_Footer Rows in DataGrid.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jstrain.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jstrain.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -150,7 +286,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Changed Files">
           <expand>
@@ -172,6 +307,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,43 +318,13 @@
             <path>
               <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6ProgrammingDeclaratively-ABetterStyle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
-              <item name="webAPIs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
-              <item name="webAPIs" type="462c0819:PsiDirectoryNode" />
-              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,7 +503,9 @@
       <workItem from="1521686879406" duration="2235000" />
       <workItem from="1521689382921" duration="173000" />
       <workItem from="1521689589415" duration="68000" />
-      <workItem from="1521689670066" duration="115000" />
+      <workItem from="1521689670066" duration="714000" />
+      <workItem from="1521776210206" duration="1266000" />
+      <workItem from="1521799979495" duration="238000" />
     </task>
     <task id="LOCAL-00001" summary="add local jquery file.">
       <created>1520560797382</created>
@@ -459,7 +567,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68360000" />
+    <option name="totallyTimeSpent" value="70463000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,17 +586,17 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27006507" sideWeight="0.5260916" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27006507" sideWeight="0.47390842" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27006507" sideWeight="0.47390842" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25878593" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26144835" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2550586" sideWeight="0.50701755" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2550586" sideWeight="0.50701755" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6691974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -569,34 +677,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page273.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page237.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/page249.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProgrammingDeclaratively-ABetterStyle/Transformations/SummingAnArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter1/page237.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -899,18 +979,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/DataGrid/26_Footer Rows in DataGrid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/DataGrid/datagrid_data2.json" />
-    <entry file="file://$PROJECT_DIR$/demo/DataGrid/demo.json">
+    <entry file="file://$PROJECT_DIR$/easyui/DataGrid/demo.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyui/DataGrid/26_Footer Rows in DataGrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud_datagrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jstrain.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
