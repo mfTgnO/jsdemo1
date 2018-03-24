@@ -17,7 +17,7 @@
 <p>The summary information can be displayed in footer rows.</p>
 <table id="dg" class="easyui-datagrid" title="Footer Rows in DataGrid" style="width: 700px;height: 220px;"
        data-options="
-        	url:'datagrid_data1.json',
+        	url:'datagrid_data2.json',
         	method:'get',
         	fitColumns:true,
         	singleSelect:true,
@@ -39,25 +39,39 @@
         $('#dg').datagrid({
             onLoadSuccess: compute,
             showFooter:true,
-            showHeader,false
         });
     });
 
-    function compute() { //计算函数
-        let rows = $('#dg').datagrid('getRows') //获取当前的数据行
-        let ptotal = 0 //计算listprice的总和
+    function compute() {
+        let rows = $('#dg').datagrid('getRows');
+        let ptotal = 0
             ,
-            utotal = 0; //统计unitcost的总和
+            utotal = 0;
         for (let i = 0; i < rows.length; i++) {
             ptotal += parseFloat(rows[i]['listprice']);
             utotal += parseFloat(rows[i]['unitcost']);
         }
 
-        //新增一行显示统计信息
         $('#dg').datagrid('appendRow', {
             itemid: '<b>统计：</b>',
             listprice: ptotal.toFixed(1),
             unitcost: utotal.toFixed(2)
+        });
+    }
+
+    function compute() {
+        let rows = $('#dg_main').datagrid('getRows');
+        let ptotal = 0;
+        let utotal = 0;
+        for (let i = 0; i < rows.length; i++) {
+            ptotal += parseFloat(rows[i]['y29']);
+            utotal += parseFloat(rows[i]['y28']);
+        }
+
+        $('#dg_main').datagrid('appendRow', {
+            y03: '<b>统计：</b>',
+            y29: ptotal.toFixed(1),
+            y28: utotal.toFixed(1)
         });
     }
     /*$('#dg').datagrid({
