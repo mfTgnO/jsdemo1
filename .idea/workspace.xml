@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/Morecomplexmemoization/memoize2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/progressbar/circle/multipleProperties.html" afterPath="$PROJECT_DIR$/tool/progressbar/circle/multipleProperties.html" />
     </list>
@@ -466,7 +467,7 @@
       <workItem from="1522052300555" duration="5464000" />
       <workItem from="1522111598084" duration="1459000" />
       <workItem from="1522116082559" duration="7892000" />
-      <workItem from="1522131225539" duration="13661000" />
+      <workItem from="1522131225539" duration="13720000" />
     </task>
     <task id="LOCAL-00001" summary="add local jquery file.">
       <created>1520560797382</created>
@@ -535,7 +536,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104873000" />
+    <option name="totallyTimeSpent" value="104932000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
