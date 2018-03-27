@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom Label</title>
+    <link rel="stylesheet" type="text/css"
+          href="../../jquery/jquery-uiSmoothness/development-bundle/themes/smoothness/jquery-ui.css">
+    <script type="text/javascript" src="../../jquery/jquery-uiSmoothness/development-bundle/jquery-1.8.3.js"></script>
+    <script type="text/javascript"
+            src="../../jquery/jquery-uiSmoothness/development-bundle/ui/jquery-ui.custom.js"></script>
+    <style>
+        .progress-label{
+            position: absolute;
+            left:50%;
+            top: 4px;
+            font-weight: bold;
+            text-shadow: 1px 1px 0 #fff;
+        }
+
+    </style>
+    <script type="text/javascript">
+        $(function () {
+            var progressbar = $('#progressbar'),
+                progresslabel = $('.progress-label');
+            progressbar.progressbar({
+                value:false,
+                change:function () {
+                    progresslabel.text(progressbar.progressbar("value")+"%");
+                }
+            })
+        });
+    </script>
+</head>
+<body>
+<div id="progressbar"><div class="progress-label">Loading...</div></div>
+</body>
+</html>

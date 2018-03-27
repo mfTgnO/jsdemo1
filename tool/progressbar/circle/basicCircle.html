@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="../../../js/progressbar.js"></script>
+    <style rel="stylesheet" type="text/css">
+        #container {
+            margin: 20px;
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+    <title>Basic Circle</title>
+</head>
+<body>
+<!--https://jsfiddle.net/kimmobrunfeldt/mxjj6jom/-->
+<div id="container"></div>
+<script type="text/javascript">
+    window.onload = function () {
+        const bar = new ProgressBar.Circle(container, {
+            strokeWidth: 6,
+            easing: 'easeInOut',
+            duration: 1400,
+            color: '#FFEA82',
+            trailColor: '#eee',
+            trailWidth: 1,
+            svgStyle: null
+        });
+        bar.animate(1.0);
+    }
+</script>
+</body>
+</html>

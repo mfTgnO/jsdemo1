@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="../../../js/progressbar.js"></script>
+    <style rel="stylesheet" type="text/css">
+        #container {
+            margin: 20px;
+            width: 200px;
+            height: 200px;
+            position: relative;
+        }
+    </style>
+    <title>Multiple Properties</title>
+</head>
+<body>
+<div id="container"></div>
+<script type="text/javascript">
+    window.onload = function () {
+        // progressbar.js@1.0.0 version is used
+// Docs: http://progressbarjs.readthedocs.org/en/1.0.0/
+        const bar = new ProgressBar.Circle(container, {
+            color: '#aaa',
+            // This has to be the same size as the maximum width to
+            // prevent clipping
+            strokeWidth: 4,
+            trailWidth: 1,
+            easing: 'easeInOut',
+            duration: 1400,
+            text: {
+                autoStyleContainer: false
+            },
+            from: {color: '#aaa', width: 1},
+            to: {color: '#333', width: 4},
+            // Set default step function for all animate calls
+            step: function (state, circle) {
+                circle.path.setAttribute('stroke', state.color);
+                circle.path.setAttribute('stroke-width', state.color);
+
+                var value = Math.round(circle.value() * 100);
+                if (value == 0) {
+                    circle.setText('');
+                } else {
+                    circle.setText(value);
+                }
+            }
+        });
+        bar.animate(1.0);
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="../../../js/progressbar.js"></script>
+    <style rel="stylesheet" type="text/css">
+        #container {
+            margin: 20px;
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+    <title>Bounce Easing</title>
+</head>
+<body>
+<div id="container"></div>
+<script type="text/javascript">
+    window.onload = function () {
+        const bar = new ProgressBar.Circle(container, {
+            color: '#FFEA82',
+            trailColor: '#eee',
+            trailWidth: 1,
+            duration: 1400,
+            easing: 'bounce',
+            strokeWidth: 6,
+            from: {color: '#FFEA82', a: 0},
+            to: {color: '#ED6A5A', a: 1},
+            // set default step function all animate calls
+            step: function (state, circle) {
+                circle.path.setAttribute('stroke', state.color);
+            }
+        });
+        bar.animate(1.0);
+    }
+</script>
+</body>
+</html>

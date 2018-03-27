@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="../../../js/progressbar.js"></script>
+    <style rel="stylesheet" type="text/css">
+        #container {
+            margin: 20px;
+            width: 500px;
+            height: 500px;
+        }
+    </style>
+    <title>base semicircle</title>
+</head>
+<body>
+<div id="container"></div>
+<script type="text/javascript">
+    window.onload = function () {
+        const bar = new ProgressBar.SemiCircle(container, {
+            strokeWidth: 6,
+            easing: 'easeInOut',
+            duration: 1400,
+            color: '#FFEA82',
+            trailColor: '#eee',
+            trailWidth: 1,
+            svgStyle: null
+        });
+        bar.animate(0.25);
+    }
+</script>
+</body>
+</html>

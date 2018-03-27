@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="../../../js/progressbar.js"></script>
+    <style rel="stylesheet" type="text/css">
+        #container {
+            margin: 20px;
+            width: 200px;
+            height: 100px;
+        }
+    </style>
+    <title>semicircle with text</title>
+</head>
+<body>
+<div id="container"></div>
+<script type="text/javascript">
+    window.onload = function () {
+        // progressbar.js@1.0.0 version is used
+// Docs: http://progressbarjs.readthedocs.org/en/1.0.0/
+        const bar = new ProgressBar.SemiCircle(container, {
+            strokeWidth: 6,
+            color: '#FFEA82',
+            trailColor: '#eee',
+            trailWidth: 1,
+            easing: 'easeInOut',
+            duration: 1400,
+            svgStyle: null,
+            text: {
+                value: '',
+                alignToBottom: false
+            },
+            from: {color: '#FFEA82'},
+            to: {color: '#ED6A5A'},
+            // Set default step function for all animate calls
+            step: (state, bar) => {
+                bar.path.setAttribute('stroke', state.color);
+                const value = Math.round(bar.value() * 100);
+                if (value === '') {
+                    bar.setText('');
+                } else {
+                    bar.setText(value);
+                }
+                bar.text.style.color = state.color;
+            }
+
+        });
+        bar.animate(1.0);
+    }
+</script>
+</body>
+</html>
