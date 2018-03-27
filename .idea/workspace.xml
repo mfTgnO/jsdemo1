@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/progressbar/circle/multipleProperties.html" afterPath="$PROJECT_DIR$/tool/progressbar/circle/multipleProperties.html" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,32 +18,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="multipleProperties.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tool/progressbar/circle/multipleProperties.html">
+      <file leaf-file-name="memoizing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="225">
+              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="baseSemicircle.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tool/progressbar/semicircle/baseSemicircle.html">
+      <file leaf-file-name="memoize2.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/Morecomplexmemoization/memoize2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="77" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="semicircleWithText.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tool/progressbar/semicircle/semicircleWithText.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="150">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,8 +46,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package_json" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -85,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/range.js" />
         <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page273.html" />
         <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/page275.html" />
         <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Transformations/objCopy.js" />
@@ -131,11 +123,12 @@
         <option value="$PROJECT_DIR$/tool/progressbar/line/percent.html" />
         <option value="$PROJECT_DIR$/tool/progressbar/circle/basicCircle.html" />
         <option value="$PROJECT_DIR$/tool/progressbar/circle/bounceEasing.html" />
-        <option value="$PROJECT_DIR$/tool/progressbar/circle/multipleProperties.html" />
         <option value="$PROJECT_DIR$/tool/progressbar/line/basicLine.html" />
         <option value="$PROJECT_DIR$/tool/progressbar/custom/heart.html" />
         <option value="$PROJECT_DIR$/tool/progressbar/semicircle/baseSemicircle.html" />
         <option value="$PROJECT_DIR$/tool/progressbar/semicircle/semicircleWithText.html" />
+        <option value="$PROJECT_DIR$/tool/progressbar/circle/multipleProperties.html" />
+        <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/Morecomplexmemoization/memoize2.js" />
       </list>
     </option>
   </component>
@@ -158,10 +151,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="793" />
-    <option name="y" value="48" />
-    <option name="width" value="1851" />
-    <option name="height" value="1092" />
+    <option name="x" value="962" />
+    <option name="width" value="958" />
+    <option name="height" value="1036" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -209,6 +201,41 @@
               <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
+              <item name="Wrappingfunctions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
+              <item name="Wrappingfunctions" type="462c0819:PsiDirectoryNode" />
+              <item name="memoizing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
+              <item name="Wrappingfunctions" type="462c0819:PsiDirectoryNode" />
+              <item name="memoizing" type="462c0819:PsiDirectoryNode" />
+              <item name="Morecomplexmemoization" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -237,7 +264,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="xpath.settings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../myFun/fun0/progressbar" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -278,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.semicircleWithText.html">
+  <component name="RunManager" selected="Node.js.memoize2.js">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -373,24 +400,24 @@
       <listeners />
     </configuration>
     <configuration name="baseSemicircle.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/tool/progressbar/semicircle/baseSemicircle.html" />
-    <configuration name="bounceEasing.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/tool/progressbar/circle/bounceEasing.html" />
     <configuration name="heart.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/tool/progressbar/custom/heart.html" />
+    <configuration name="memoize2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="memoize2.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/Morecomplexmemoization" />
     <configuration name="multipleProperties.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/tool/progressbar/circle/multipleProperties.html" />
     <configuration name="semicircleWithText.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/tool/progressbar/semicircle/semicircleWithText.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.bounceEasing.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.multipleProperties.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.heart.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.baseSemicircle.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.semicircleWithText.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.multipleProperties.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.heart.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.baseSemicircle.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.semicircleWithText.html" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.memoize2.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.semicircleWithText.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.baseSemicircle.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.heart.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.multipleProperties.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.bounceEasing.html" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.memoize2.js" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.multipleProperties.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.semicircleWithText.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.baseSemicircle.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.heart.html" />
       </list>
     </recent_temporary>
   </component>
@@ -439,7 +466,7 @@
       <workItem from="1522052300555" duration="5464000" />
       <workItem from="1522111598084" duration="1459000" />
       <workItem from="1522116082559" duration="7892000" />
-      <workItem from="1522131225539" duration="8348000" />
+      <workItem from="1522131225539" duration="13661000" />
     </task>
     <task id="LOCAL-00001" summary="add local jquery file.">
       <created>1520560797382</created>
@@ -508,7 +535,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99560000" />
+    <option name="totallyTimeSpent" value="104873000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,12 +554,13 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27242887" sideWeight="0.53035146" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33479214" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7190889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.62147504" sideWeight="0.46964857" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4197397" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2662407" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26517573" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -545,7 +573,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -628,13 +655,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mozilla/webAPIs/performance/now.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/page305jasmine.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -646,13 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -949,9 +962,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tool/progressbar/circle/multipleProperties.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/Morecomplexmemoization/memoize2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
