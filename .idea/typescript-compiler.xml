@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TypeScriptCompiler">
+    <option name="nodeInterpreterTextField" value="D:/instwork/tool/node-v8.10.0-win-x64/node" />
+    <option name="useConfig" value="true" />
+  </component>
+</project>
