@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/sql/querydemo.sql" afterPath="$PROJECT_DIR$/tool/sql/querydemo.sql" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package_json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,8 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/serviceResult.json" />
-        <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/delinquent.js" />
         <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/serachAArray.js" />
         <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/page284.html" />
         <option value="$PROJECT_DIR$/mjfp/chapter6 Programming Declaratively - A Better Style/Logical higher-order functions/serachArray.js" />
@@ -108,6 +105,8 @@
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/page329.html" />
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/normallyTest.js" />
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Alteringfunctions/Doing things once, revisited/once.js" />
+        <option value="$PROJECT_DIR$/tool/tinymce/demo1.html" />
+        <option value="$PROJECT_DIR$/tool/tinymce/demo0.html" />
       </list>
     </option>
   </component>
@@ -130,7 +129,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
+    <option name="x" value="799" />
+    <option name="y" value="258" />
     <option name="width" value="960" />
     <option name="height" value="1036" />
   </component>
@@ -196,43 +196,44 @@
             <path>
               <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="skins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
-              <item name="Alteringfunctions" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="skins" type="462c0819:PsiDirectoryNode" />
+              <item name="lightgray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
-              <item name="Alteringfunctions" type="462c0819:PsiDirectoryNode" />
-              <item name="Doing things once, revisited" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
-              <item name="Wrappingfunctions" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="modern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
-              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7ProducingFunctions-Higher-OrderFunctions" type="462c0819:PsiDirectoryNode" />
-              <item name="Wrappingfunctions" type="462c0819:PsiDirectoryNode" />
-              <item name="memoizing" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="tinymce" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,14 +300,16 @@
     <property name="node.js.selected.package.tslint" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\hb_ws\demo01\tool\progressbar\line" />
-      <recent name="E:\hb_ws\demo01\mozilla\web\javascript" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\hb_ws\demo01\js\skins\lightgray" />
+      <recent name="E:\hb_ws\demo01\js\themes\modern" />
       <recent name="E:\hb_ws\demo01\js" />
       <recent name="E:\hb_ws\demo01\jquery" />
       <recent name="E:\hb_ws\demo01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\hb_ws\demo01\tool\progressbar\line" />
+      <recent name="E:\hb_ws\demo01\mozilla\web\javascript" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -321,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.once.js">
+  <component name="RunManager" selected="JavaScript Debug.demo0.html">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -415,29 +418,29 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="demo0.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/tool/tinymce/demo0.html" />
+    <configuration name="demo1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/tool/tinymce/demo1.html" />
     <configuration name="jasmineDemo.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="D:/instwork/tool/node-v8.10.0-win-x64/node" path-to-js-file="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/jasmineDemo1.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting" />
     <configuration name="memoize2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="memoize2.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/Morecomplexmemoization" />
-    <configuration name="multipleProperties.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/tool/progressbar/circle/multipleProperties.html" />
     <configuration name="normallyTest.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="normallyTest.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting" />
     <configuration name="once.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="once.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Alteringfunctions/Doing things once, revisited" />
     <configuration name="page329.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/page329.html" />
-    <configuration name="semicircleWithText.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/tool/progressbar/semicircle/semicircleWithText.html" />
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Node.js.normallyTest.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.jasmineDemo.js" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.multipleProperties.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.semicircleWithText.html" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.memoize2.js" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.page329.html" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.once.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.memoize2.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.page329.html" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.once.js" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.demo0.html" />
+      <item index="6" class="java.lang.String" itemvalue="JavaScript Debug.demo1.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.once.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.page329.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.memoize2.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.multipleProperties.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.semicircleWithText.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.demo0.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.demo1.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.once.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.page329.html" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.memoize2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +493,7 @@
       <workItem from="1522200471019" duration="4876000" />
       <workItem from="1522226416705" duration="5174000" />
       <workItem from="1522308478450" duration="150000" />
-      <workItem from="1522650698134" duration="8000" />
+      <workItem from="1522650698134" duration="10348000" />
     </task>
     <task id="LOCAL-00001" summary="add local jquery file.">
       <created>1520560797382</created>
@@ -555,11 +558,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521886129085</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit">
+      <created>1522650720264</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1522650720264</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115303000" />
+    <option name="totallyTimeSpent" value="125643000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -579,11 +589,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23861171" sideWeight="0.5170394" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28091106" sideWeight="0.48296058" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21475054" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35683298" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38720173" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44781682" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3221512" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3264642" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -596,7 +607,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -680,42 +690,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/crud_datagrid.html" />
-    <entry file="file://$PROJECT_DIR$/jstrain.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyui/DataGrid/38_Fluid DataGrid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyui/DataGrid/datagrid_data1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyui/DataGrid/datagrid_data2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easyui/DataGrid/26_Footer Rows in DataGrid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
-          <caret line="75" column="5" lean-forward="true" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tool/nodejs/f0/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -837,13 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/progressbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1005,6 +972,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="701">
           <caret line="52" column="19" lean-forward="true" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tinymce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/progressbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/themes/modern/theme.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/skins/lightgray/skin.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7878">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tinymce.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/tinymce/demo1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/tinymce/demo0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
