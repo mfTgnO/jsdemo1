@@ -52,3 +52,4 @@ makeSecond("door");
 makeSecond("door");
 makeSecond("door");
 makeSecond("door");
+makeSecond("hello");
