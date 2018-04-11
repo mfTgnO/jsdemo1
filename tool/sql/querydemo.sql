@@ -262,7 +262,22 @@ SELECT oid FROM yw_51;
 SELECT COUNT(*) rows_total FROM yw_51;
 SELECT * FROM yw_51;
 SELECT * FROM yw_51 WHERE  g01 = '1';
+-- queyr yw_55
+SELECT y11 AS y03 FROM yw_55 WHERE g01 = '1' AND oid = '9';
+-- query workkind
+SELECT y03 FROM yw_51 WHERE  g01 = '1' AND y02 LIKE '%泥工%';
 
-SELECT y03 FROM yw_51 WHERE g01 = '1' AND lid = '430770330684882944';
+SELECT y03 FROM yw_51 WHERE g01 = '1' AND lid = '432086143933087744';
 
 -- 04.09
+
+INSERT INTO yw_55 (y02) VALUES ('张三');
+SELECT * FROM yw_55;
+
+-- 
+SELECT y20 AS contractContent FROM yw_16 WHERE g01 = '1' AND lid = '2647691275831296';
+
+SELECT * FROM yw_51 WHERE lid = '433567667379503104';
+-- delete from yw_51
+DELETE FROM yw_51 WHERE g01 != `yw_10`'1';
+SELECT * FROM yw_16;
