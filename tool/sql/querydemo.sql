@@ -279,5 +279,16 @@ SELECT y20 AS contractContent FROM yw_16 WHERE g01 = '1' AND lid = '264769127583
 
 SELECT * FROM yw_51 WHERE lid = '433567667379503104';
 -- delete from yw_51
-DELETE FROM yw_51 WHERE g01 != `yw_10`'1';
+DELETE FROM yw_16 WHERE y06 LIKE '%杭%';
 SELECT * FROM yw_16;
+
+-- find subcontractorContract
+SELECT y20 FROM yw_16 WHERE lid = '434042172031893504' AND g01 = '1';
+
+-- 
+SELECT * FROM yw_16 WHERE lid = '434041342847352832';
+SELECT * FROM yw_51 WHERE lid = '432086143933087744';
+
+-- getSubcontractContractNum
+SELECT d02 AS num FROM xt_0 WHERE d01 = 'yw_16';
+UPDATE xt_0 SET d02 = '05' WHERE d01 = 'yw_16';
