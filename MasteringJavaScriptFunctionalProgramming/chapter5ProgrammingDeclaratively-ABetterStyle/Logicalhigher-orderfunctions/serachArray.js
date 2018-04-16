@@ -18,7 +18,7 @@ const arr = [1,2,3,NaN,5];
 var result1 = arr.findIndex(x =>x === NaN);
 var result2 = arr.findIndex(x => isNaN(x));
 console.log("result1:"+result1);
-console.log("result2:"+result2);
+console.log("result1:"+result2);
 
 // page:289
 // Higher level predicates - some, every
