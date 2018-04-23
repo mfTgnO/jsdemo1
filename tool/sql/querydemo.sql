@@ -292,3 +292,50 @@ SELECT * FROM yw_51 WHERE lid = '432086143933087744';
 -- getSubcontractContractNum
 SELECT d02 AS num FROM xt_0 WHERE d01 = 'yw_16';
 UPDATE xt_0 SET d02 = '05' WHERE d01 = 'yw_16';
+
+-- 
+SELECT DISTINCT(d03),d04,d05,d06,d07,d08,d09 FROM xt_6 WHERE d01='20171010165254488' AND d08='project' ORDER BY (d07+0) ASC;
+
+SELECT * FROM xt_6;`yw_1``xt_0`
+
+INSERT INTO yw_74 (lid,y01,y02,y03,y04,y05) VALUES();
+-- query yw_74
+SELECT * FROM yw_74; -- y01,y03
+SELECT * FROM yw_74 WHERE y02 = '1b3ac8945659485ab5588c65d30133fb';
+SELECT * FROM bd_1;
+
+
+SELECT * FROM bd_1 WHERE y03 = 0;
+SELECT * FROM yw_76 WHERE y03 = 0;
+SELECT * FROM yw_76; -- y01,y02
+-- y01:01,02
+SELECT * FROM yw_76 WHERE y03 IN (01,02);
+SELECT * FROM yw_74 WHERE y02 IN ('171840a69cc943d7936ea37a28bb48a8','bbfb5c6a4b44478d9ef0704b2948551f');
+
+SELECT * FROM yw_74 WHERE y01 = '021503b34fd54fc38b82f5c79e19622e';
+SELECT * FROM yw_74 WHERE y02 = '0';
+DELETE FROM yw_74 WHERE y02 = '021503b34fd54fc38b82f5c79e19622e';
+
+SELECT y03 FROM hr_1;
+
+SELECT * FROM yw_82;
+SHOW TABLES;
+DESC yw_80;
+
+SELECT * FROM yw_10 WHERE g01 = '1' AND lid = '419171747191848960';
+SELECT * FROM yw_80 WHERE g01 = '1' AND y01 = '419171747191848960';
+SELECT lid,y01,y02,y03,y04,y05 FROM yw_74,yw_80 WHERE yw_74.lid = yw_80.y02;
+SELECT yw_74.lid,yw_74.y01,yw_74.y02,yw_74.y03,yw_74.y04,yw_74.y05,yw_80.y03 FROM yw_74 LEFT JOIN yw_80 ON yw_74.lid = yw_80.y02; 
+SELECT yw_74.*,yw_80.y03 FROM yw_74 LEFT JOIN yw_80 ON yw_74.lid = yw_80.y02 WHERE yw_80.y01 = ''; 
+-- yw_74.lid,yw_74.y01,yw_74.y02,yw_74.y03,yw_74.y04,yw_74.y05,yw_80.y03
+SELECT yw_74.lid,yw_74.y01,yw_74.y02,yw_74.y03,yw_74.y04,yw_74.y05,yw_80.y03,yw_80.y04 FROM yw_74 LEFT JOIN yw_80 ON yw_74.lid = yw_80.y02 WHERE yw_74.g01 = '1' AND yw_80.y01 = '' AND yw_74.y02 = '81edb0e73a2d4c6680ab85eb9bd989db'; 
+SELECT yw_74.lid,yw_74.y01,yw_74.y02,yw_74.y03,yw_74.y04,yw_74.y05 FROM yw_74 LEFT JOIN yw_80 ON yw_74.lid = yw_80.y02 WHERE yw_74.g01 = '1' AND yw_74.y02 = '81edb0e73a2d4c6680ab85eb9bd989db'; 
+
+SELECT yw_74.*,yw_80.y03 AS score ,yw_80.y01 AS 80y01 FROM yw_74 LEFT JOIN yw_80 ON yw_74.lid = yw_80.y02  WHERE  yw_74.y02 = '0' AND yw_80.y01 = '402417819301445632';
+SELECT * FROM yw_10;
+SELECT * FROM yw_80;
+-- 2661736417658880 	yw_80.y01:projectNum 	 yw_80.y02:assessmentNum
+SELECT yw_74.*,yw_80.y03 AS score ,yw_80.y01 AS projectNum FROM yw_74 LEFT JOIN yw_80 ON yw_74.lid = yw_80.y02  WHERE  yw_80.y02 = '2661736417658880' AND yw_80.y01 = '402417819301445632';
+SELECT yw_74.*,yw_80.y03 AS score ,yw_80.y01 AS projectNum FROM yw_74 LEFT JOIN yw_80 ON yw_74.lid = yw_80.y02  WHERE  yw_80.y02 = '0';
+
+SELECT yw_74.*,yw_80.y03 AS score ,yw_80.y01 AS projectNum FROM yw_74 LEFT JOIN yw_80 ON yw_74.lid = yw_80.y02  WHERE  yw_80.y02 = '81edb0e73a2d4c6680ab85eb9bd989db'  AND yw_80.y01 = '402417819301445632'
