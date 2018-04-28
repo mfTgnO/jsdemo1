@@ -3,11 +3,11 @@
     <head>
         <meta charset="UTF-8">
         <title>Basic TreeGrid - jQuery EasyUI Demo</title>
-        <link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/themes/icon.css">
-		<link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/themes/color.css">
-		<link rel="stylesheet" type="text/css" href="https://www.jeasyui.com/easyui/demo/demo.css">
-		<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
-		<script type="text/javascript" src="https://www.jeasyui.com/easyui/jquery.easyui.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="../../js/easyui/themes/icon.css">
+		<link rel="stylesheet" type="text/css" href="../../js/easyui/themes/color.css">
+		<link rel="stylesheet" type="text/css" href="../../js/easyui/demo/demo.css">
+		<script type="text/javascript" src="../../js/jquery.min.js"></script>
+		<script type="text/javascript" src="../../js/easyui/jquery.easyui.min.js"></script>
     </head>
     <body>
         <h2>Basic TreeGrid</h2>
@@ -15,7 +15,7 @@
         <div style="margin:20px 0;"></div>
         <table title="Folder Browser" class="easyui-treegrid" style="width:700px;height:250px"
                 data-options="
-                    url: 'treegrid_data1.json',
+                    url: './treegrid_data1.json',
                     method: 'get',
                     rownumbers: true,
                     idField: 'id',
@@ -24,8 +24,8 @@
             <thead>
                 <tr>
                     <th data-options="field:'name'" width="220">Name</th>
-                    <th data-options="field:'size'" width="100" align="right">Size</th>
-                    <th data-options="field:'date'" width="150">Modified Date</th>
+                    <!--<th data-options="field:'size'" width="100" align="right">Size</th>
+                    <th data-options="field:'date'" width="150">Modified Date</th>-->
                 </tr>
             </thead>
         </table>
