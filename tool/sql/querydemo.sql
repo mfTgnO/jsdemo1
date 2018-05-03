@@ -27,7 +27,7 @@ SELECT * FROM
 UserInfoTbl INNER JOIN UserPvTbl 
 ON UserInfoTbl.username=UserPvTbl.fusename
 WHERE UserPvTbl.usename='user0003';
-
+ 
 SELECT U.*
 FROM UserInfoTbl U
 INNER JOIN UserPvTbl UP
