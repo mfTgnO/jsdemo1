@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/1_ABitOfTheory/page378.js" afterPath="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/1_ABitOfTheory/page378.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/sql/querydemo.sql" afterPath="$PROJECT_DIR$/tool/sql/querydemo.sql" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page385.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -63,60 +61,38 @@
       <file leaf-file-name="page389.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page389.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="110" />
+            <state relative-caret-position="225">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page389jasmine.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page389jasmine.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page394.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page394.js">
+      <file leaf-file-name="page398.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page398.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/function/bind/demo.js">
+      <file leaf-file-name="page401.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page401.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="712">
-              <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page389.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page389.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <state relative-caret-position="25">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page388jasmine.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page388jasmine.js">
+      <file leaf-file-name="page403.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page403.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="275">
+              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -128,8 +104,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package_json" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -164,12 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tool/progressbar/circle/bounceEasing.html" />
-        <option value="$PROJECT_DIR$/tool/progressbar/line/basicLine.html" />
-        <option value="$PROJECT_DIR$/tool/progressbar/custom/heart.html" />
-        <option value="$PROJECT_DIR$/tool/progressbar/semicircle/baseSemicircle.html" />
-        <option value="$PROJECT_DIR$/tool/progressbar/semicircle/semicircleWithText.html" />
-        <option value="$PROJECT_DIR$/tool/progressbar/circle/multipleProperties.html" />
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/Morecomplexmemoization/memoize2.js" />
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/jasmineDemo.js" />
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/jasmineDemo2.js" />
@@ -215,6 +185,12 @@
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page394.js" />
         <option value="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/function/bind/demo.js" />
         <option value="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/function/bind/demo.html" />
+        <option value="$PROJECT_DIR$/mozilla/webAPIs/FetchAPI/UsingFetch/demo0.js" />
+        <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page398.js" />
+        <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page401.js" />
+        <option value="$PROJECT_DIR$/tool/demo/common.js" />
+        <option value="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/undefined/demo.js" />
+        <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page403.js" />
       </list>
     </option>
   </component>
@@ -237,8 +213,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
+    <option name="x" value="1044" />
+    <option name="width" value="876" />
     <option name="height" value="1036" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -293,6 +269,101 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7TransformingFunctions-CurryingandPartialApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="MasteringJavaScriptFunctionalProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter7TransformingFunctions-CurryingandPartialApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="3_PartialApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Standard_built-in_objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Standard_built-in_objects" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Standard_built-in_objects" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="bind" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="mozilla" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Standard_built-in_objects" type="462c0819:PsiDirectoryNode" />
+              <item name="undefined" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Changed Files">
@@ -324,23 +395,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo01" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.tslint" />
-    <property name="last_opened_file_path" value="D:/idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -389,7 +448,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.demo.html">
+  <component name="RunManager" selected="Node.js.demo.js (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -484,32 +543,32 @@
       <listeners />
     </configuration>
     <configuration name="demo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/mozilla/web/javascript/Standard_built-in_objects/function/bind/demo.html" />
+    <configuration name="demo.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/undefined" />
     <configuration name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/function/bind" />
     <configuration name="jasmineDemo.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="D:/instwork/tool/node-v8.10.0-win-x64/node" path-to-js-file="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/jasmineDemo1.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting" />
     <configuration name="normallyTest.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/normallyTest.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting" />
     <configuration name="page305jasmine.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="page305jasmine.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions" />
     <configuration name="page388jasmine.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="page388jasmine.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying" />
     <configuration name="page389.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page389.html" />
-    <configuration name="page389.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="page389.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying" />
     <configuration name="page394.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="page394.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying" />
     <list size="9">
       <item index="0" class="java.lang.String" itemvalue="Node.js.page305jasmine.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.normallyTest.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.jasmineDemo.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.page388jasmine.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.page389.js" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.page389.html" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.page394.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.demo.js" />
-      <item index="8" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page389.html" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.page394.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.demo.js" />
+      <item index="7" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.demo.js (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.demo.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.page394.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.page389.html" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.page389.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.demo.js (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.demo.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.page394.js" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page389.html" />
       </list>
     </recent_temporary>
   </component>
@@ -589,7 +648,11 @@
       <workItem from="1526114234953" duration="4047000" />
       <workItem from="1526258870781" duration="595000" />
       <workItem from="1526372457530" duration="2341000" />
-      <workItem from="1526455342119" duration="10947000" />
+      <workItem from="1526455342119" duration="15949000" />
+      <workItem from="1526540101025" duration="936000" />
+      <workItem from="1526541213837" duration="144000" />
+      <workItem from="1526541419886" duration="4592000" />
+      <workItem from="1526549815825" duration="2112000" />
     </task>
     <task id="LOCAL-00001" summary="add local jquery file.">
       <created>1520560797382</created>
@@ -693,7 +756,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183657000" />
+    <option name="totallyTimeSpent" value="196443000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -712,16 +775,16 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23861171" sideWeight="0.5170394" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3308026" sideWeight="0.48296058" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39715537" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3358862" sideWeight="0.48296058" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5097614" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38720173" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22064245" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3812533" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38394794" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22757111" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2550586" sideWeight="0.50701755" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6691974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -743,11 +806,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23861171" sideWeight="0.5170394" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21663019" sideWeight="0.48296058" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3358862" sideWeight="0.48296058" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39715537" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38720173" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7717122" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5338346" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -755,7 +818,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38394794" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22757111" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2550586" sideWeight="0.50701755" order="3" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -828,49 +891,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/themes/modern/theme.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tool/tinymce/demo0.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Alteringfunctions/Arity changing/p334.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Otherhigher-orderfunctions/Turning operations into functions/p348.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Otherhigher-orderfunctions/Turning operations into functions/p351.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Otherhigher-orderfunctions/Turning functions into promises/exist.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Otherhigher-orderfunctions/Turning functions into promises/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1033,7 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="718">
           <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,9 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-811">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1051,7 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1059,7 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,7 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1075,7 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,7 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1091,7 +1102,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1099,7 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1107,7 +1116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1115,7 +1123,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1123,31 +1130,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="13" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page385.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page388.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page389.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="110" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1155,7 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,23 +1144,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page389jasmine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page394.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1195,17 +1159,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page388.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page385.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mozilla/webAPIs/FetchAPI/UsingFetch/demo0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page394.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page389jasmine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying/page389.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page401.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page398.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/undefined/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="92" lean-forward="true" selection-start-line="0" selection-start-column="92" selection-end-line="0" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/demo/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/function/bind/demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page403.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
