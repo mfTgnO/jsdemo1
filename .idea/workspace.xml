@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/demo/theGoodParts/chapter1Grammar/page21.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/demo/theGoodParts/chapter1Grammar/page21.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page47.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page57.js" />
+    <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/demo/common.js" afterPath="$PROJECT_DIR$/tool/demo/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page57.js" afterPath="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page57.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/sql/querydemo.sql" afterPath="$PROJECT_DIR$/tool/sql/querydemo.sql" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -33,24 +31,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tool/demo/common.js">
+      <file leaf-file-name="demo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/undefined/demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="82" />
+            <state relative-caret-position="200">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page57.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page57.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="32" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page61.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page61.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/undefined/demo.js">
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tool/demo/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="82" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="82" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="82" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,40 +78,8 @@
       <file leaf-file-name="page47.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page47.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page57.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page57.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page21.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter1Grammar/page21.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page21.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter1Grammar/page21.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="175">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="27" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -139,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/page329.html" />
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/normallyTest.js" />
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7ProducingFunctions-Higher-OrderFunctions/Alteringfunctions/Doing things once, revisited/once.js" />
         <option value="$PROJECT_DIR$/tool/tinymce/demo1.html" />
@@ -183,13 +170,14 @@
         <option value="$PROJECT_DIR$/mozilla/webAPIs/FetchAPI/UsingFetch/demo0.js" />
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page398.js" />
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page401.js" />
-        <option value="$PROJECT_DIR$/tool/demo/common.js" />
         <option value="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/undefined/demo.js" />
         <option value="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/3_PartialApplication/page403.js" />
         <option value="$PROJECT_DIR$/tool/demo/theGoodParts/chapter1Grammar/page21.html" />
         <option value="$PROJECT_DIR$/tool/demo/theGoodParts/chapter1Grammar/page21.js" />
         <option value="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page47.js" />
+        <option value="$PROJECT_DIR$/tool/demo/common.js" />
         <option value="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page57.js" />
+        <option value="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page61.js" />
       </list>
     </option>
   </component>
@@ -211,7 +199,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1036" />
@@ -262,7 +250,7 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource ProjectPane="true" Scratches="true" />
+      <autoscrollFromSource Scratches="true" ProjectPane="true" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
@@ -326,6 +314,13 @@
               <item name="demo01" type="462c0819:PsiDirectoryNode" />
               <item name="tool" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="d" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="tool" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="theGoodParts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -340,7 +335,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Changed Files">
           <expand>
@@ -371,7 +366,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -425,7 +420,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.page47.js">
+  <component name="RunManager" selected="Node.js.page61.js">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -519,33 +514,33 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="demo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/mozilla/web/javascript/Standard_built-in_objects/function/bind/demo.html" />
     <configuration name="demo.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/undefined" />
-    <configuration name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/function/bind" />
     <configuration name="jasmineDemo.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="D:/instwork/tool/node-v8.10.0-win-x64/node" path-to-js-file="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/jasmineDemo1.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting" />
     <configuration name="normallyTest.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/normallyTest.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting" />
     <configuration name="page21.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/demo01/jstrain/tool/demo/theGoodParts/chapter1Grammar/page21.html" />
     <configuration name="page305jasmine.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="page305jasmine.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions" />
     <configuration name="page388jasmine.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="page388jasmine.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying" />
     <configuration name="page47.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="page47.js" working-dir="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects" />
+    <configuration name="page57.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="page57.js" working-dir="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects" />
+    <configuration name="page61.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="page61.js" working-dir="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects" />
     <list size="9">
       <item index="0" class="java.lang.String" itemvalue="Node.js.page305jasmine.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.normallyTest.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.jasmineDemo.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.page388jasmine.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.demo.js" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.demo.js (1)" />
-      <item index="7" class="java.lang.String" itemvalue="JavaScript Debug.page21.html" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.page47.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.demo.js (1)" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.page21.html" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.page47.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.page57.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.page61.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.page47.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.page21.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.demo.js (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.demo.html" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.demo.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.page61.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.page57.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.page47.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.page21.html" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.demo.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -634,7 +629,10 @@
       <workItem from="1526634128310" duration="1764000" />
       <workItem from="1526691337865" duration="1880000" />
       <workItem from="1526696721877" duration="3682000" />
-      <workItem from="1526717867057" duration="2521000" />
+      <workItem from="1526717867057" duration="2554000" />
+      <workItem from="1526864593746" duration="620000" />
+      <workItem from="1526887921412" duration="2150000" />
+      <workItem from="1526892555868" duration="4703000" />
     </task>
     <task id="LOCAL-00001" summary="add local jquery file.">
       <created>1520560797382</created>
@@ -734,11 +732,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523701048998</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit">
+      <created>1526722676118</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1526722676118</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208169000" />
+    <option name="totallyTimeSpent" value="215675000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -750,24 +755,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1036" extended-state="0" />
+    <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23861171" sideWeight="0.5170394" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44902387" sideWeight="0.48296058" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30196938" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29934925" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29826465" sideWeight="0.48296058" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38720173" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7172196" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47446024" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22757111" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2550586" sideWeight="0.50701755" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22757111" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6691974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -788,11 +793,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23861171" sideWeight="0.5170394" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44902387" sideWeight="0.48296058" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30260304" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29934925" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30087528" sideWeight="0.48296058" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38720173" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7172196" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47475833" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -800,8 +805,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22757111" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2550586" sideWeight="0.50701755" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22757111" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -873,13 +878,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tool/demo/d/d0/test3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tool/demo/d/d0/test4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -887,13 +885,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tool/demo/d/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="54" lean-forward="true" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -1185,19 +1176,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tool/demo/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter1Grammar/page21.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,34 +1187,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mozilla/web/javascript/Standard_built-in_objects/undefined/demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="82" />
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/demo/d/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="54" lean-forward="true" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page47.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+        <state relative-caret-position="175">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="27" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page57.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="32" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page57.js">
+    <entry file="file://$PROJECT_DIR$/tool/demo/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="82" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page61.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
           <folding />
         </state>
       </provider>
