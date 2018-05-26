@@ -189,3 +189,73 @@ var factorial = function (i, a) {
     return factorial(i - 1, a * i);
 };
 document.writeln(factorial(4));// 24
+
+// 4.9. Scope
+console.log("-------------------------------------------------- 4.9. Scope");
+var foo = function () {
+    var a = 3, b = 5;
+    var bar = function () {
+        var b = 7, c = 11;
+        // At this point, a is 3, b is 7, and c is 11
+        console.log(">>>1   a:" + a + "     b:" + b + "     c:" + c);
+        a += b + c;
+        // At this point, a is 21, b is 7, and c is 11
+        console.log(">>>2   a:" + a + "     b:" + b + "     c:" + c);
+    };
+    // At this point, a is 3, b is 5, and c is not defined
+    console.log(">>>3   a:" + a + "     b:" + b);
+    bar();
+    // At this point, a is 21, b is 5
+    console.log(">>>4   a:" + a + "     b:" + b);
+};
+foo();
+
+// 4.10. Closure
+console.log("-------------------------------------------------- 4.10. Closure");
+var myObject = function () {
+    var value = 0;
+    return {
+        increment: function (inc) {
+            value += typeof inc === 'number' ? inc : 1;
+        },
+        getValue: function () {
+            return value;
+        }
+    }
+}();
+myObject.increment(5);
+console.log(myObject.getValue());
+myObject.increment(4);
+console.log(myObject.getValue());
+
+// Create a maker function called quo. It makes an
+// object with a get_status method and a private
+// status property.
+var quo = function (status) {
+    return {
+        get_status: function () {
+            return status;
+        }
+    };
+};
+// Make an instance of quo.
+var myQuo = quo("amazed");
+document.writeln(myQuo.get_status());
+
+//
+// Define a function that sets a DOM node's color
+// to yellow and then fades it to white.
+var fade = function (node) {
+    var level = 1;
+    var step = function () {
+        var hex = level.toString(16);
+        console.log("hex:" + hex);
+        node.style.backgroundColor = '#FFFF' + hex + hex;
+        if (hex < 15) {
+            level += 1;
+            setTimeout(step, 100);
+        }
+    };
+    setTimeout(step, 100);
+};
+fade(document.body);

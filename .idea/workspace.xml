@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="543ad716-0924-4e2f-8069-5216cdfb3693" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/demo/theGoodParts/chpater4Functions/page71.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/demo/theGoodParts/chpater4Functions/page71.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page61.js" afterPath="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects/page61.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/demo/theGoodParts/chpater4Functions/page71.js" afterPath="$PROJECT_DIR$/tool/demo/theGoodParts/chpater4Functions/page71.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tool/sql/querydemo.sql" afterPath="$PROJECT_DIR$/tool/sql/querydemo.sql" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -35,8 +33,8 @@
       <file leaf-file-name="page71.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chpater4Functions/page71.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="183" column="29" lean-forward="false" selection-start-line="183" selection-start-column="29" selection-end-line="183" selection-end-column="29" />
+            <state relative-caret-position="654">
+              <caret line="255" column="34" lean-forward="false" selection-start-line="255" selection-start-column="34" selection-end-line="255" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -177,7 +175,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
+    <option name="x" value="916" />
+    <option name="y" value="58" />
     <option name="width" value="960" />
     <option name="height" value="1036" />
   </component>
@@ -233,7 +232,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,23 +272,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-            <path>
-              <item name="" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-              <item name="com.intellij.database" type="61db50fb:ScratchProjectViewPane$MyPsiNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.page71.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.page71.html (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -439,9 +423,9 @@
     <configuration name="normallyTest.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting/normallyTest.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions/memoizing/MemoizationTesting" />
     <configuration name="page305jasmine.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="page305jasmine.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter6ProducingFunctions-Higher-OrderFunctions/Wrappingfunctions" />
     <configuration name="page388jasmine.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="page388jasmine.js" working-dir="$PROJECT_DIR$/MasteringJavaScriptFunctionalProgramming/chapter7TransformingFunctions-CurryingandPartialApplication/2_Currying" />
-    <configuration name="page57.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="page57.js" working-dir="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects" />
     <configuration name="page61.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="page61.js" working-dir="$PROJECT_DIR$/tool/demo/theGoodParts/chapter3Objects" />
     <configuration name="page71.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:16086/demo01/jstrain/tool/demo/theGoodParts/chpater4Functions/page71.html" />
+    <configuration name="page71.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:26490/demo01/jstrain/tool/demo/theGoodParts/chpater4Functions/page71.html" />
     <configuration name="page71.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:3085/demo01/jstrain/tool/demo/theGoodParts/chpater4Functions/page71.html" />
     <configuration name="page71.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="page71.js" working-dir="$PROJECT_DIR$/tool/demo/theGoodParts/chpater4Functions" />
     <list size="9">
@@ -449,19 +433,19 @@
       <item index="1" class="java.lang.String" itemvalue="Node.js.normallyTest.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.jasmineDemo.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.page388jasmine.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.page57.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.page61.js" />
-      <item index="6" class="java.lang.String" itemvalue="JavaScript Debug.page71.html" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.page71.js" />
-      <item index="8" class="java.lang.String" itemvalue="JavaScript Debug.page71.html (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.page61.js" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.page71.html" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.page71.js" />
+      <item index="7" class="java.lang.String" itemvalue="JavaScript Debug.page71.html (1)" />
+      <item index="8" class="java.lang.String" itemvalue="JavaScript Debug.page71.html (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.page71.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.page71.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.page71.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.page61.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.page57.js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.page71.html (2)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.page71.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.page71.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.page71.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.page61.js" />
       </list>
     </recent_temporary>
   </component>
@@ -562,7 +546,13 @@
       <workItem from="1527217513833" duration="581000" />
       <workItem from="1527219683880" duration="601000" />
       <workItem from="1527226570650" duration="496000" />
-      <workItem from="1527232840991" duration="5212000" />
+      <workItem from="1527232840991" duration="5226000" />
+      <workItem from="1527244837827" duration="614000" />
+      <workItem from="1527305286598" duration="128000" />
+      <workItem from="1527305851443" duration="14000" />
+      <workItem from="1527319817939" duration="2116000" />
+      <workItem from="1527327657326" duration="1347000" />
+      <workItem from="1527329292273" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="add local jquery file.">
       <created>1520560797382</created>
@@ -669,11 +659,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526722676118</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit">
+      <created>1527244736809</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1527244736809</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232381000" />
+    <option name="totallyTimeSpent" value="236953000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -696,7 +693,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30151844" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38720173" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64769065" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44444445" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -724,10 +721,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.297593" sideWeight="0.48296058" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30196938" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30151844" sideWeight="0.46964857" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38720173" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.64769065" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44468313" sideWeight="0.49298245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1135,7 +1132,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="826">
           <caret line="429" column="0" lean-forward="false" selection-start-line="429" selection-start-column="0" selection-end-line="429" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1157,8 +1153,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tool/demo/theGoodParts/chpater4Functions/page71.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="183" column="29" lean-forward="false" selection-start-line="183" selection-start-column="29" selection-end-line="183" selection-end-column="29" />
+        <state relative-caret-position="654">
+          <caret line="255" column="34" lean-forward="false" selection-start-line="255" selection-start-column="34" selection-end-line="255" selection-end-column="34" />
           <folding />
         </state>
       </provider>
