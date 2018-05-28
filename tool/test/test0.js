@@ -19,5 +19,3 @@ var arr = [
 for (var i = 0; i < len; i++) {
     result[i] = arr[i]['riqi']
 };
-
-console.log(result);
