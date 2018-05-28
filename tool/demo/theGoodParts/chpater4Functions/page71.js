@@ -259,3 +259,185 @@ var fade = function (node) {
     setTimeout(step, 100);
 };
 fade(document.body);
+
+//It is important to understand that the inner function has access to the actual variables of the outer functions
+// and not copies in order to avoid the following problem:
+
+
+console.log("-------------------------------------------------- BAD EXAMPLE");
+// BAD EXAMPLE
+// Make a function that assigns event handler functions to an array
+// of nodes the wrong way.
+// When you click on a node, an alert box is supposed to display the ordinal
+// of the node.
+// But it always displays the number of nodes instead.
+var add_the_handlers = function (nodes) {
+    var i;
+    console.log("nodes.length:" + nodes.length);
+    for (i = 0; i < nodes.length; i += 1) {
+        nodes[i].onclick = function (e) {
+            alert(i);
+        }
+    }
+};
+add_the_handlers(document.body);
+// END BAD EXAMPLE
+console.log("-------------------------------------------------- BETTER EXAMPLE");
+// BETTER EXAMPLE
+// Make a function that assigns event handler functions to an array of nodes
+// the right way.
+// When you click on a node, an alert box will display the ordinal of the node.
+var add_the_handlers_better = function (nodes) {
+    var i;
+    for (i = 0; i < nodes.length; i += 1) {
+        nodes[i].onclick = function (i) {
+            return function (e) {
+                alert(i);
+            };
+        }(i);
+    }
+};
+add_the_handlers_better(document.body);
+
+//4.11. Callbacks
+/*request = prepare_the_request();
+response = send_request_synchronously(request);
+display(response);
+
+request = prepare_the_request();
+send_request_asynchronously(request, function (response) {
+    display(response);
+});*/
+
+// 4.12. Module
+console.log("-------------------------------------------------- 4.12. Module");
+String.method('deentityfiy', function () {
+    var entity = {
+        quot: '"',
+        lt: '<',
+        gt: '<'
+    };
+    return function () {
+        return this.replace(/&([^&;]+);/g, function (a, b) {
+                var r = entity[b];
+                return typeof r === 'string' ? r : a;
+            }
+        );
+    };
+}());
+
+document.writeln('&lt;&quot;&gt'.deentityfiy());// <">
+
+
+console.log("-------------------------------------------------- 4.12. Module");
+// Produce an object that produces unique strings. A
+// unique string is made up of two parts: a prefix
+// and a sequence number. The object comes with
+// methods for setting the prefix and sequence
+// number, and a gensym method that produces unique
+// strings.
+var serial_maker = function () {
+    var prefix = '';
+    var seq = 0;
+    return {
+        set_prefix: function (p) {
+            prefix = String(p);
+        },
+        set_seq: function (s) {
+            seq = s;
+        },
+        gensym: function () {
+            var result = prefix + seq;
+            seq += 1;
+            return result;
+        }
+    };
+}();
+
+/*var seqer = serial_maker();
+seqer.set_prefix = 'Q';
+seqer.set_seq = 1000;
+var unique = seqer.gensym();// unique is "Q1000"
+console.log("unique:" + unique);*/
+
+//4.13. Cascade
+/*getElement('myBoxDiv').move(350, 150).width(100).height(100).color('red').border('10px outset').padding('4px').appendText("Please stand by").on('mousedown', function (m) {
+    this.startDrag(m, this.getNinth(m));
+}).on('mousemove', 'drag').on('mouseup', 'stopDrag').later(2000, function () {
+    this.color('yellow').setHTML("What hath God wraught?").slide(400, 40, 200, 200);
+}).tip('This box is resizeable');*/
+
+// 4.14. Curry
+console.log("-------------------------------------------------- 4.14. Curry");
+
+
+// Unfortunately, as we saw earlier, the arguments array is not an array, so it does not have the concat
+// method.
+/*Function.method('curry', function () {
+    var args = arguments, that = this;
+    return function () {
+        return that.apply(null, args.concat(arguments));
+    };
+});*/
+
+
+//
+Function.method('curry', function () {
+    var slice = Array.prototype.slice,
+        args = slice.apply(arguments),
+        that = this;
+
+    return function () {
+        return that.apply(null, args.concat(slice.apply(arguments)));
+    }
+});
+
+var add1 = add.curry(1);
+document.writeln(add1(6));
+
+// 4.15. Memoization
+console.log("-------------------------------------------------- 4.15. Memoization");
+/*var fibonacci = function (n) {
+    return n < 2 ? n : fibonacci(n - 1) + fibonacci(n - 2);
+};
+for (var i = 0; i <= 10; i += 1) {
+    document.writeln('//' + i + ':' + fibonacci(i));
+}*/
+
+// memoized
+/*var fibonacci1 = function () {
+    var memo = [0, 1];
+    var fib = function (n) {
+        var result = memo[n];
+        if (typeof result !== 'number') {
+            result = fib(n - 1) + fib(n - 2);
+            memo[n] = result;
+        }
+        return result;
+    };
+    return fib;
+}();
+
+for (var i = 0; i <= 15; i += 1) {
+    document.writeln('//' + i + ':' + fibonacci1(i));
+}*/
+
+//
+var memoizer = function (memo, fundamental) {
+    var shell = function (n) {
+        var result = memo[n];
+        if (typeof result !== 'number') {
+            result = fundamental(shell, n);
+            memo[n] = result;
+        }
+        return result;
+    };
+};
+
+var fibonacci2 = memoizer([0, 1], function (shell, n) {
+    return shell(n - 1) + shell(n - 2);
+})
+
+var factorial = memoizer([1,1],function (shell,n) {
+    return n * shell(n - 1);
+});
