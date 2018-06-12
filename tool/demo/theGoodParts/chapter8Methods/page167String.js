@@ -186,3 +186,9 @@ console.log("e:" + e);
 // regular expression:
 var f = '|a|b|c|'.split(/\|/);
 console.log("f:" + f);
+
+
+console.log("-------------------------------------------------- String.fromCharCode(char...)");
+// The String.fromCharCode function produces a string from a series of numbers.
+var a = String.fromCharCode(67, 97, 116);
+console.log("a:" + a);
